@@ -1,0 +1,145 @@
+/* Emerald City Gear — Mariners-themed custom styles */
+
+:root {
+  --primary: #0C2C56;        /* Mariners navy */
+  --secondary: #005C5C;      /* Mariners teal */
+  --accent: #C4CED4;         /* Silver/grey */
+  --link-color: #005C5C;
+  --link-hover: #0C2C56;
+}
+
+/* Header */
+.header {
+  background: var(--primary);
+  border-bottom: 3px solid var(--secondary);
+}
+
+.header .logo a,
+.header .logo span,
+.nav a {
+  color: #ffffff !important;
+}
+
+.nav a:hover {
+  color: var(--accent) !important;
+}
+
+/* Site title */
+.header .logo {
+  font-size: 1.3rem;
+  font-weight: 700;
+  letter-spacing: -0.3px;
+}
+
+/* Links */
+.post-content a,
+.post-single a {
+  color: var(--link-color);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.post-content a:hover,
+.post-single a:hover {
+  color: var(--link-hover);
+}
+
+/* Home intro panel */
+.home-info {
+  background: linear-gradient(135deg, #0C2C56 0%, #005C5C 100%);
+  color: #ffffff;
+  border-radius: 8px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+.home-info h1,
+.home-info p {
+  color: #ffffff !important;
+}
+
+/* Article cards */
+.post-entry {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.post-entry:hover {
+  box-shadow: 0 4px 12px rgba(12, 44, 86, 0.12);
+  border-color: var(--secondary);
+}
+
+.post-entry .entry-header h2 {
+  font-size: 1.15rem;
+  color: var(--primary);
+}
+
+/* CTA buttons / affiliate links that use 👉 emoji + bold */
+.post-content strong a {
+  background: var(--secondary);
+  color: #ffffff !important;
+  padding: 0.3rem 0.75rem;
+  border-radius: 4px;
+  text-decoration: none !important;
+  font-weight: 600;
+  display: inline-block;
+  margin: 0.25rem 0;
+  transition: background 0.2s ease;
+}
+
+.post-content strong a:hover {
+  background: var(--primary);
+  color: #ffffff !important;
+}
+
+/* Tables */
+.post-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+.post-content th {
+  background: var(--primary);
+  color: #ffffff;
+  padding: 0.6rem 0.75rem;
+  text-align: left;
+}
+
+.post-content td {
+  padding: 0.55rem 0.75rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.post-content tr:nth-child(even) td {
+  background: #f9fafb;
+}
+
+/* Breadcrumbs */
+.breadcrumbs {
+  color: #6b7280;
+  font-size: 0.85rem;
+}
+
+/* Footer */
+.footer {
+  border-top: 2px solid var(--primary);
+  color: #6b7280;
+}
+
+/* Reading time + meta */
+.post-meta {
+  color: #6b7280;
+  font-size: 0.85rem;
+}
+
+/* Responsive tweaks */
+@media (max-width: 640px) {
+  .home-info {
+    padding: 1.25rem;
+  }
+}

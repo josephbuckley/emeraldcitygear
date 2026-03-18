@@ -21,8 +21,8 @@ paginate = 10
   DateFormat = "January 2, 2006"
 
   [params.homeInfoParams]
-    Title = "Your Guide to All Things Mariners ⚾"
-    Content = "Streaming guides, gear picks, tickets, and fantasy tips for Seattle Mariners fans. Updated for the 2026 season."
+    Title = "⚾ Your Guide to All Things Mariners"
+    Content = "Streaming guides, gear picks, tickets, and fantasy baseball tips — written by Mariners fans, for Mariners fans. Updated for the 2026 season."
 
   [[params.socialIcons]]
     name = "twitter"
