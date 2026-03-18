@@ -1,0 +1,55 @@
+baseURL = "https://emeraldcitygear.com/"
+languageCode = "en-us"
+title = "Emerald City Gear"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  description = "The Seattle Mariners fan's guide to streaming, gear, tickets, and fantasy baseball."
+  author = "Emerald City Gear"
+  defaultTheme = "light"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowToc = true
+  TocOpen = false
+  hidemeta = false
+  comments = false
+  disableScrollToTop = false
+  DateFormat = "January 2, 2006"
+
+  [params.homeInfoParams]
+    Title = "Your Guide to All Things Mariners ⚾"
+    Content = "Streaming guides, gear picks, tickets, and fantasy tips for Seattle Mariners fans. Updated for the 2026 season."
+
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/"
+
+[menu]
+  [[menu.main]]
+    identifier = "watch"
+    name = "Watch"
+    url = "/watch/"
+    weight = 10
+  [[menu.main]]
+    identifier = "gear"
+    name = "Gear & Gifts"
+    url = "/gear/"
+    weight = 20
+  [[menu.main]]
+    identifier = "tickets"
+    name = "Tickets"
+    url = "/tickets/"
+    weight = 30
+  [[menu.main]]
+    identifier = "fantasy"
+    name = "Fantasy"
+    url = "/fantasy/"
+    weight = 40
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
