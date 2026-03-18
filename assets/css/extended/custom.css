@@ -1,145 +1,381 @@
-/* Emerald City Gear — Mariners-themed custom styles */
+/* ============================================
+   Emerald City Gear — Professional Theme
+   Colors: Mariners Navy #0C2C56 / Teal #005C5C
+   ============================================ */
 
+/* --- Fonts --- */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #1a1a2e;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Merriweather', Georgia, serif;
+  color: #0C2C56;
+  line-height: 1.3;
+}
+
+/* --- CSS Variables --- */
 :root {
-  --primary: #0C2C56;        /* Mariners navy */
-  --secondary: #005C5C;      /* Mariners teal */
-  --accent: #C4CED4;         /* Silver/grey */
-  --link-color: #005C5C;
-  --link-hover: #0C2C56;
+  --navy: #0C2C56;
+  --teal: #005C5C;
+  --teal-light: #007a7a;
+  --silver: #C4CED4;
+  --bg: #ffffff;
+  --bg-secondary: #f8fafc;
+  --border: #e2e8f0;
+  --text: #1a1a2e;
+  --text-muted: #64748b;
 }
 
-/* Header */
+/* --- Header --- */
 .header {
-  background: var(--primary);
-  border-bottom: 3px solid var(--secondary);
+  background: var(--navy);
+  border-bottom: none;
+  box-shadow: 0 2px 12px rgba(12, 44, 86, 0.25);
+  padding: 0 !important;
 }
 
-.header .logo a,
-.header .logo span,
-.nav a {
+.header .nav {
+  padding: 0 1rem;
+  min-height: 60px;
+}
+
+.logo a, .logo span {
   color: #ffffff !important;
-}
-
-.nav a:hover {
-  color: var(--accent) !important;
-}
-
-/* Site title */
-.header .logo {
-  font-size: 1.3rem;
-  font-weight: 700;
+  font-family: 'Inter', sans-serif !important;
+  font-weight: 700 !important;
+  font-size: 1.25rem !important;
   letter-spacing: -0.3px;
 }
 
-/* Links */
-.post-content a,
-.post-single a {
-  color: var(--link-color);
-  text-decoration: underline;
-  text-underline-offset: 2px;
+.logo a::before {
+  content: "⚾ ";
 }
 
-.post-content a:hover,
-.post-single a:hover {
-  color: var(--link-hover);
+#menu-btn, #theme-toggle {
+  color: #ffffff !important;
 }
 
-/* Home intro panel */
+.nav a {
+  color: rgba(255,255,255,0.85) !important;
+  font-weight: 500;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 0.4rem 0.75rem;
+  border-radius: 4px;
+  transition: background 0.15s, color 0.15s;
+}
+
+.nav a:hover {
+  color: #ffffff !important;
+  background: rgba(255,255,255,0.12);
+}
+
+/* --- Home Hero Banner --- */
 .home-info {
-  background: linear-gradient(135deg, #0C2C56 0%, #005C5C 100%);
+  background: linear-gradient(135deg, var(--navy) 0%, var(--teal) 100%);
   color: #ffffff;
-  border-radius: 8px;
-  padding: 2rem;
-  margin-bottom: 2rem;
+  border-radius: 12px;
+  padding: 2.5rem 2rem;
+  margin-bottom: 2.5rem;
+  border: none;
+  box-shadow: 0 4px 24px rgba(12, 44, 86, 0.18);
 }
 
+.home-info .home-info-content h1,
 .home-info h1,
 .home-info p {
   color: #ffffff !important;
 }
 
-/* Article cards */
+.home-info h1 {
+  font-size: 1.75rem;
+  margin-bottom: 0.6rem;
+}
+
+.home-info p {
+  opacity: 0.9;
+  font-size: 1.05rem;
+}
+
+/* --- Article / Post Cards --- */
 .post-entry {
-  border: 1px solid #e5e7eb;
-  border-radius: 8px;
-  padding: 1.25rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.4rem 1.5rem;
   margin-bottom: 1rem;
-  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease, transform 0.15s ease;
 }
 
 .post-entry:hover {
-  box-shadow: 0 4px 12px rgba(12, 44, 86, 0.12);
-  border-color: var(--secondary);
+  box-shadow: 0 6px 20px rgba(12, 44, 86, 0.1);
+  border-color: var(--teal);
+  transform: translateY(-2px);
 }
 
 .post-entry .entry-header h2 {
   font-size: 1.15rem;
-  color: var(--primary);
+  color: var(--navy);
+  margin-bottom: 0.4rem;
 }
 
-/* CTA buttons / affiliate links that use 👉 emoji + bold */
-.post-content strong a {
-  background: var(--secondary);
+.post-entry .entry-content p {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.entry-footer {
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  margin-top: 0.5rem;
+}
+
+/* --- Article Body --- */
+.post-single .post-title {
+  font-size: 2rem;
+  color: var(--navy);
+  line-height: 1.25;
+  margin-bottom: 0.75rem;
+}
+
+.post-content {
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+
+.post-content h2 {
+  font-size: 1.45rem;
+  color: var(--navy);
+  border-bottom: 2px solid var(--teal);
+  padding-bottom: 0.4rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.post-content h3 {
+  font-size: 1.15rem;
+  color: var(--teal);
+  margin-top: 1.75rem;
+  margin-bottom: 0.6rem;
+}
+
+.post-content p {
+  margin-bottom: 1.25rem;
+}
+
+/* --- Links in content --- */
+.post-content a {
+  color: var(--teal);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-color: rgba(0, 92, 92, 0.4);
+  transition: color 0.15s;
+}
+
+.post-content a:hover {
+  color: var(--navy);
+  text-decoration-color: var(--navy);
+}
+
+/* --- Affiliate CTA Buttons (👉 **[text](url)** pattern) --- */
+.post-content strong a,
+.post-content p > a[href*="fanatics"],
+.post-content p > a[href*="seatgeek"],
+.post-content p > a[href*="mlb.com"],
+.post-content p > a[href*="draftkings"],
+.post-content p > a[href*="fanduel"] {
+  display: inline-block;
+  background: var(--teal);
   color: #ffffff !important;
-  padding: 0.3rem 0.75rem;
-  border-radius: 4px;
+  padding: 0.45rem 1rem;
+  border-radius: 6px;
   text-decoration: none !important;
   font-weight: 600;
-  display: inline-block;
-  margin: 0.25rem 0;
-  transition: background 0.2s ease;
+  font-size: 0.95rem;
+  margin: 0.3rem 0;
+  transition: background 0.2s ease, transform 0.1s ease;
+  box-shadow: 0 2px 6px rgba(0,92,92,0.25);
 }
 
 .post-content strong a:hover {
-  background: var(--primary);
+  background: var(--navy);
   color: #ffffff !important;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(12,44,86,0.25);
 }
 
-/* Tables */
+/* --- Tables --- */
 .post-content table {
   width: 100%;
   border-collapse: collapse;
-  margin: 1.5rem 0;
+  margin: 2rem 0;
   font-size: 0.95rem;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
 }
 
-.post-content th {
-  background: var(--primary);
+.post-content thead th {
+  background: var(--navy);
   color: #ffffff;
-  padding: 0.6rem 0.75rem;
+  padding: 0.75rem 1rem;
   text-align: left;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 0.88rem;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
 }
 
 .post-content td {
-  padding: 0.55rem 0.75rem;
-  border-bottom: 1px solid #e5e7eb;
+  padding: 0.7rem 1rem;
+  border-bottom: 1px solid var(--border);
+  color: var(--text);
+}
+
+.post-content tr:last-child td {
+  border-bottom: none;
 }
 
 .post-content tr:nth-child(even) td {
-  background: #f9fafb;
+  background: var(--bg-secondary);
 }
 
-/* Breadcrumbs */
-.breadcrumbs {
-  color: #6b7280;
-  font-size: 0.85rem;
+.post-content tr:hover td {
+  background: rgba(0, 92, 92, 0.05);
 }
 
-/* Footer */
-.footer {
-  border-top: 2px solid var(--primary);
-  color: #6b7280;
+/* --- Blockquotes / callouts --- */
+.post-content blockquote {
+  border-left: 4px solid var(--teal);
+  background: var(--bg-secondary);
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+  color: var(--text);
 }
 
-/* Reading time + meta */
+/* --- Horizontal rules --- */
+.post-content hr {
+  border: none;
+  border-top: 2px solid var(--border);
+  margin: 2.5rem 0;
+}
+
+/* --- Post meta (date, reading time) --- */
 .post-meta {
-  color: #6b7280;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  margin-bottom: 1.5rem;
+}
+
+/* --- Breadcrumbs --- */
+.breadcrumbs {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-bottom: 1rem;
+}
+
+.breadcrumbs a {
+  color: var(--teal) !important;
+}
+
+/* --- TOC --- */
+#TableOfContents {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--teal);
+  border-radius: 0 8px 8px 0;
+  padding: 1rem 1.25rem;
+  font-size: 0.9rem;
+  margin-bottom: 2rem;
+}
+
+#TableOfContents a {
+  color: var(--navy) !important;
+  text-decoration: none;
+}
+
+#TableOfContents a:hover {
+  color: var(--teal) !important;
+  text-decoration: underline;
+}
+
+/* --- Footer --- */
+.footer {
+  background: var(--navy);
+  border-top: none;
+  padding: 1.5rem;
+  margin-top: 3rem;
+}
+
+.footer span,
+.footer a {
+  color: rgba(255,255,255,0.6) !important;
   font-size: 0.85rem;
 }
 
-/* Responsive tweaks */
-@media (max-width: 640px) {
+.footer a:hover {
+  color: rgba(255,255,255,0.9) !important;
+}
+
+/* --- Pagination --- */
+.pagination a {
+  color: var(--teal);
+  border: 1px solid var(--teal);
+  border-radius: 6px;
+  padding: 0.4rem 0.85rem;
+}
+
+.pagination a:hover {
+  background: var(--teal);
+  color: #ffffff !important;
+}
+
+/* --- Section/list page title --- */
+.page-header h1 {
+  font-size: 1.75rem;
+  color: var(--navy);
+  border-bottom: 3px solid var(--teal);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* --- Main content max width for readability --- */
+.post-single .post-content {
+  max-width: 720px;
+}
+
+/* --- Mobile polish --- */
+@media (max-width: 768px) {
+  .post-single .post-title {
+    font-size: 1.6rem;
+  }
+
   .home-info {
-    padding: 1.25rem;
+    padding: 1.5rem;
+  }
+
+  .home-info h1 {
+    font-size: 1.4rem;
+  }
+
+  .post-content h2 {
+    font-size: 1.25rem;
+  }
+
+  .post-content table {
+    font-size: 0.85rem;
+  }
+
+  .post-content thead th,
+  .post-content td {
+    padding: 0.5rem 0.6rem;
   }
 }
