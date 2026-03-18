@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SeatGeek on Emerald City Gear</title>
     <link>https://emeraldcitygear.com/tags/seatgeek/</link>
@@ -13,7 +13,7 @@
       <link>https://emeraldcitygear.com/tickets/best-seats-tmobile-park/</link>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://emeraldcitygear.com/tickets/best-seats-tmobile-park/</guid>
-      <description>Best seats at T-Mobile Park for Seattle Mariners games — section-by-section breakdown for every type of fan and budget.</description>
+      <description>&lt;p&gt;T-Mobile Park is one of the better baseball stadiums in the American League. Good sightlines, a retractable roof that actually gets used, and a layout that doesn&amp;rsquo;t punish you for not spending $200 on a ticket. But the sections are not all created equal — there&amp;rsquo;s a big difference between &amp;ldquo;solid lower bowl seat for $35&amp;rdquo; and &amp;ldquo;overpriced corner seat where you&amp;rsquo;re watching the game at a 45-degree angle.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve sat in probably 40 different sections at T-Mobile Park over the years. Here&amp;rsquo;s the honest breakdown of where to sit, what to expect, and how to find a deal.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

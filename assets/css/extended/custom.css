@@ -52,7 +52,15 @@ h1, h2, h3, h4 {
 }
 
 .logo a::before {
-  content: "⚾ ";
+  content: "";
+}
+
+/* Image logo in header */
+.logo img {
+  height: 40px;
+  width: auto;
+  display: block;
+  filter: brightness(1);
 }
 
 #menu-btn, #theme-toggle {
