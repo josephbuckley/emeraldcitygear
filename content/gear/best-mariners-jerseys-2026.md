@@ -40,13 +40,13 @@ Whether you're buying replica or authentic, check for:
 
 The face of the franchise. J-Rod jerseys are the top seller and for good reason — this is the guy you're betting the next decade on. The home white with navy #44 is clean. If you're buying one current-player jersey and don't have one yet, this is the one.
 
-👉 **[Julio Rodríguez Mariners Jersey — Fanatics](https://www.fanatics.com/mlb/seattle-mariners/julio-rodriguez)**
+👉 **[Julio Rodríguez Mariners Jersey — Fanatics](https://fanatics.93n6tx.net/JkKGYq)**
 
 ### Cal Raleigh — #29
 
 "Big Dumper" is legitimately beloved in Seattle. Raleigh's jersey has become one of the signature picks for fans who want the underrated gem rather than the obvious choice — but it's not underrated anymore, it's just correct. The alternate navy jersey with Cal Raleigh on the back looks excellent.
 
-👉 **[Cal Raleigh Mariners Jersey — Fanatics](https://www.fanatics.com/mlb/seattle-mariners/cal-raleigh)**
+👉 **[Cal Raleigh Mariners Jersey — Fanatics](https://fanatics.93n6tx.net/2RaEB7)**
 
 ### Mitch Haniger — Check Current Roster
 
@@ -60,13 +60,13 @@ The greatest Mariner. The Hall of Famer. The man whose poster was on more Seattl
 
 The Mitchell & Ness authentic throwback is the premium option here. Fanatics also carries cooperstown replicas at a lower price point — both are solid depending on your budget.
 
-👉 **[Ken Griffey Jr. Mariners Throwback Jersey — Fanatics](https://www.fanatics.com/mlb/seattle-mariners/ken-griffey-jr)**
+👉 **[Ken Griffey Jr. Mariners Throwback Jersey — Fanatics](https://fanatics.93n6tx.net/MKAJYq)**
 
 ### Edgar Martinez — Retro #11
 
 Edgar is the greatest designated hitter in baseball history and a Hall of Famer. His jersey is a statement: you've been watching long enough to know what the 1995 double meant. If you want to represent the real history of this franchise, Edgar delivers.
 
-👉 **[Edgar Martinez Mariners Throwback Jersey — Fanatics](https://www.fanatics.com/mlb/seattle-mariners/edgar-martinez)**
+👉 **[Edgar Martinez Mariners Throwback Jersey — Fanatics](https://fanatics.93n6tx.net/MKAJYq)**
 
 ### Randy Johnson — Retro #51
 
@@ -84,7 +84,7 @@ The women's cut jerseys from Fanatics have gotten noticeably better over the las
 
 **Women's Cooperstown Teal:** The throwback teal in a women's cut is genuinely one of the sharpest things in the entire Mariners merch lineup. Griffey in teal, women's cut, is a perennial sell-out.
 
-👉 **[Women's Mariners Jerseys — Fanatics](https://www.fanatics.com/mlb/seattle-mariners/womens-jerseys)**
+👉 **[Women's Mariners Jerseys — Fanatics](https://fanatics.93n6tx.net/MKAJYq)**
 
 👉 **[Women's Mariners Jerseys — MLB Shop](https://www.mlbshop.com/seattle-mariners/womens)**
 
@@ -100,7 +100,7 @@ For kids, the calculus is a bit different: you're buying something they'll grow 
 
 **Sizing:** Kids jerseys run in standard kids sizes (S/M/L/XL or 4-7, 8-20 depending on the style). Kids grow fast — when in doubt, size up. A slightly big jersey is better than one they've outgrown by August.
 
-👉 **[Kids' Mariners Jerseys — Fanatics](https://www.fanatics.com/mlb/seattle-mariners/kids-jerseys)**
+👉 **[Kids' Mariners Jerseys — Fanatics](https://fanatics.93n6tx.net/MKAJYq)**
 
 👉 **[Youth Mariners Jerseys — MLB Shop](https://www.mlbshop.com/seattle-mariners/kids)**
 
@@ -116,7 +116,7 @@ Here's the honest breakdown:
 
 The City Connect jerseys tend to run out during the season and don't always get restocked. If you want one, don't wait.
 
-👉 **[Mariners City Connect Jersey — Fanatics](https://www.fanatics.com/mlb/seattle-mariners/city-connect)**
+👉 **[Mariners City Connect Jersey — Fanatics](https://fanatics.93n6tx.net/MKAJYq)**
 
 👉 **[Mariners City Connect Jersey — MLB Shop](https://www.mlbshop.com/seattle-mariners/city-connect)**
 
@@ -127,7 +127,7 @@ The City Connect jerseys tend to run out during the season and don't always get 
 
 **Watch out for:** Shipping times during peak season (Opening Day week) can stretch. Order early.
 
-👉 **[Shop All Mariners Jerseys — Fanatics](https://www.fanatics.com/mlb/seattle-mariners)**
+👉 **[Shop All Mariners Jerseys — Fanatics](https://fanatics.93n6tx.net/MKAJYq)**
 
 ### MLB Shop
 **Best for:** Official MLB licensed gear, sometimes better on throwback/cooperstown options. The official MLB storefront, so you know it's legit.

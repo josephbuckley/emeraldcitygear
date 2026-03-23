@@ -31,7 +31,7 @@ If you're buying for a fan who follows the current roster, two names dominate:
 
 You can't go wrong with Griffey. The Junior #24 in classic teal is still one of the best-looking baseball jerseys ever made. Timeless.
 
-👉 **[Shop Mariners Jerseys on Fanatics](https://www.fanatics.com/mlb/seattle-mariners)**
+👉 **[Shop Mariners Jerseys on Fanatics](https://fanatics.93n6tx.net/MKAJYq)**
 
 **Budget tip:** Replica jerseys run $120–$150. Authentic jerseys are $200–$350. For most gift recipients, replica is the right call.
 
@@ -50,7 +50,7 @@ If the person grew up in the Randy Johnson era, the teal throwback cap delivers 
 ### City Connect Hat
 The Mariners' City Connect gear — inspired by Pacific Northwest aesthetics — has been a fan favorite for something a bit different from standard navy.
 
-👉 **[Shop Mariners Hats on Fanatics](https://www.fanatics.com/mlb/seattle-mariners)**
+👉 **[Shop Mariners Hats on Fanatics](https://fanatics.93n6tx.net/MKAJYq)**
 
 ---
 
@@ -63,7 +63,7 @@ Not every gift needs to be a jersey:
 - **Mariners Socks** — Sounds low-key but fans genuinely love good novelty socks
 - **Mariners T-Shirt** — Look for 47 Brand soft-style tees; avoid the cheap generic ones that pill immediately
 
-👉 **[Shop Mariners Gifts Under $50](https://www.fanatics.com/mlb/seattle-mariners)**
+👉 **[Shop Mariners Gifts Under $50](https://fanatics.93n6tx.net/MKAJYq)**
 
 ---
 
@@ -76,7 +76,7 @@ Kids grow fast and Mariners fans train them early.
 - **Mariners Backpack** — Practical, used constantly, available on Fanatics
 - **Youth Baseball Glove** — Pair a Rawlings or Wilson glove in navy with a Mariners hat for a full starter-pack gift
 
-👉 **[Shop Kids Mariners Gear](https://www.fanatics.com/mlb/seattle-mariners)**
+👉 **[Shop Kids Mariners Gear](https://fanatics.93n6tx.net/MKAJYq)**
 
 ---
 
@@ -107,7 +107,7 @@ Most "best Mariners gifts" guides default to men's jerseys. The women's gear sel
 - **Women's Mariners T-Shirt** — The Fanatics "relaxed fit" line is popular
 - **Women's Replica Jersey** — Same players (Julio, Cal, Griffey), cut for a women's fit
 
-👉 **[Shop Women's Mariners Gear](https://www.fanatics.com/mlb/seattle-mariners/womens)**
+👉 **[Shop Women's Mariners Gear](https://fanatics.93n6tx.net/MKAJYq)**
 
 ---
 
