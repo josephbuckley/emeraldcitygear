@@ -1,14 +1,14 @@
 baseURL = "https://emeraldcitygear.com/"
 languageCode = "en-us"
 title = "Emerald City Gear"
+theme = "PaperMod"
+paginate = 10
 
 [params.logo]
   url = "/logo.png"
   width = 160
   height = 40
   alt = "Emerald City Gear"
-theme = "PaperMod"
-paginate = 10
 
 [params]
   description = "The Seattle Mariners fan's guide to streaming, gear, tickets, and fantasy baseball."
@@ -27,8 +27,8 @@ paginate = 10
   DateFormat = "January 2, 2006"
 
   [params.homeInfoParams]
-    Title = "⚾ Your Guide to All Things Mariners"
-    Content = "Streaming guides, gear picks, tickets, and fantasy baseball tips — written by Mariners fans, for Mariners fans. Updated for the 2026 season."
+    Title = "Your Guide to All Things Mariners"
+    Content = "Streaming guides, gear picks, tickets, and fantasy baseball tips -- written by Mariners fans, for Mariners fans. Updated for the 2026 season."
 
   [[params.socialIcons]]
     name = "twitter"
@@ -50,7 +50,6 @@ paginate = 10
     name = "Tickets"
     url = "/tickets/"
     weight = 30
-
 
 [taxonomies]
   category = "categories"
