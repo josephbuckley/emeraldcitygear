@@ -29,9 +29,9 @@ If you're buying for a fan who follows the current roster, two names dominate:
 
 ### The Retro Pick: Ken Griffey Jr.
 
-You can't go wrong with Griffey. The Junior #24 in classic teal is still one of the best-looking baseball jerseys ever made. Timeless.
+You can't go wrong with Griffey. Fanatics carries the white cooperstown replica — clean and classic. If you want the teal throwback, Mitchell & Ness is where to look.
 
-👉 **[Shop Mariners Jerseys on Fanatics](https://fanatics.93n6tx.net/MKAJYq)**
+👉 **[Ken Griffey Jr. Mariners Jersey — Fanatics](https://fanatics.93n6tx.net/en19xO)**
 
 **Budget tip:** Replica jerseys run $120–$150. Authentic jerseys are $200–$350. For most gift recipients, replica is the right call.
 
@@ -76,7 +76,7 @@ Kids grow fast and Mariners fans train them early.
 - **Mariners Backpack** — Practical, used constantly, available on Fanatics
 - **Youth Baseball Glove** — Pair a Rawlings or Wilson glove in navy with a Mariners hat for a full starter-pack gift
 
-👉 **[Shop Kids Mariners Gear](https://fanatics.93n6tx.net/MKAJYq)**
+👉 **[Shop Kids Mariners Gear](https://fanatics.93n6tx.net/n4XGZA)**
 
 ---
 
@@ -107,7 +107,7 @@ Most "best Mariners gifts" guides default to men's jerseys. The women's gear sel
 - **Women's Mariners T-Shirt** — The Fanatics "relaxed fit" line is popular
 - **Women's Replica Jersey** — Same players (Julio, Cal, Griffey), cut for a women's fit
 
-👉 **[Shop Women's Mariners Gear](https://fanatics.93n6tx.net/MKAJYq)**
+👉 **[Shop Women's Mariners Gear](https://fanatics.93n6tx.net/zzxE5r)**
 
 ---
 

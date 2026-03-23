@@ -56,11 +56,11 @@ The face of the franchise. J-Rod jerseys are the top seller and for good reason 
 
 ### Ken Griffey Jr. — Retro #24
 
-The greatest Mariner. The Hall of Famer. The man whose poster was on more Seattle bedroom walls than anyone in franchise history. A Griffey retro jersey isn't just a jersey — it's a piece of Mariners identity. The teal throwback with #24 is the one. Everyone in your section will recognize it. Everyone over 30 will have a feeling about it.
+The greatest Mariner. The Hall of Famer. The man whose poster was on more Seattle bedroom walls than anyone in franchise history. A Griffey retro jersey isn't just a jersey — it's a piece of Mariners identity. Everyone in your section will recognize it. Everyone over 30 will have a feeling about it.
 
-The Mitchell & Ness authentic throwback is the premium option here. Fanatics also carries cooperstown replicas at a lower price point — both are solid depending on your budget.
+Fanatics carries the white cooperstown replica — clean, classic, and the right choice for most fans. If you specifically want a teal throwback, Mitchell & Ness is the place to look for the premium authentic version.
 
-👉 **[Ken Griffey Jr. Mariners Throwback Jersey — Fanatics](https://fanatics.93n6tx.net/MKAJYq)**
+👉 **[Ken Griffey Jr. Mariners Throwback Jersey — Fanatics](https://fanatics.93n6tx.net/en19xO)**
 
 ### Edgar Martinez — Retro #11
 
@@ -82,9 +82,9 @@ The women's cut jerseys from Fanatics have gotten noticeably better over the las
 
 **Women's Fashion Jersey:** Cropped, looser fit, more streetwear-adjacent. If you want something that works outside the ballpark, this is the direction.
 
-**Women's Cooperstown Teal:** The throwback teal in a women's cut is genuinely one of the sharpest things in the entire Mariners merch lineup. Griffey in teal, women's cut, is a perennial sell-out.
+**Women's Cooperstown Griffey:** The white cooperstown Griffey jersey in a women's cut is a sharp option — classic look, iconic player. If you want the teal throwback specifically, check Mitchell & Ness for the premium version.
 
-👉 **[Women's Mariners Jerseys — Fanatics](https://fanatics.93n6tx.net/MKAJYq)**
+👉 **[Women's Mariners Jerseys — Fanatics](https://fanatics.93n6tx.net/zzxE5r)**
 
 👉 **[Women's Mariners Jerseys — MLB Shop](https://www.mlbshop.com/seattle-mariners/womens)**
 
@@ -96,11 +96,11 @@ For kids, the calculus is a bit different: you're buying something they'll grow 
 
 **Current Players for Kids:** J-Rod is the obvious pick for young fans — he's the most exciting player on the team and kids respond to him. Cal Raleigh is a close second; there's something endearing about a catcher nickname like "Big Dumper" that resonates with the under-12 crowd.
 
-**Retro for Kids:** Griffey in teal is a childhood rite of passage in the Pacific Northwest. If you want to pass something down, this is it.
+**Retro for Kids:** A Griffey cooperstown jersey in a kids' size is a Pacific Northwest rite of passage. Fanatics carries the white version — if you want the teal throwback, Mitchell & Ness is the source for that.
 
 **Sizing:** Kids jerseys run in standard kids sizes (S/M/L/XL or 4-7, 8-20 depending on the style). Kids grow fast — when in doubt, size up. A slightly big jersey is better than one they've outgrown by August.
 
-👉 **[Kids' Mariners Jerseys — Fanatics](https://fanatics.93n6tx.net/MKAJYq)**
+👉 **[Kids' Mariners Jerseys — Fanatics](https://fanatics.93n6tx.net/n4XGZA)**
 
 👉 **[Youth Mariners Jerseys — MLB Shop](https://www.mlbshop.com/seattle-mariners/kids)**
 
@@ -170,11 +170,12 @@ Stick to Fanatics, MLB Shop, or the T-Mobile Park team store. If the price seems
 |--------|------|----------|--------------|
 | J-Rod #44 | Current player replica | Every fan, first jersey | Fanatics |
 | Cal Raleigh #29 | Current player replica | The true believers | Fanatics |
-| Griffey #24 Teal | Cooperstown throwback | Everyone — safest pick | Fanatics / MLB Shop |
+| Griffey #24 (white) | Cooperstown throwback | Everyone — safest pick | Fanatics |
+| Griffey #24 (teal) | Cooperstown throwback | Teal era purists | Mitchell & Ness |
 | Edgar Martinez #11 | Cooperstown throwback | 1995 faithful | MLB Shop |
 | Randy Johnson #51 | Cooperstown throwback | Big Unit fans | MLB Shop |
 | City Connect | Current alternate | Bold design fans | Fanatics |
-| Women's teal Griffey | Women's throwback | Best women's option | Fanatics |
+| Women's Griffey | Women's throwback | Best women's option | Fanatics |
 
 ---
 
