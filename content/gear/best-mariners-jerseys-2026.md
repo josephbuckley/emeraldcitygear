@@ -116,7 +116,7 @@ Here's the honest breakdown:
 
 The City Connect jerseys tend to run out during the season and don't always get restocked. If you want one, don't wait.
 
-👉 **[Mariners City Connect Jersey — Fanatics](https://fanatics.93n6tx.net/MKAJYq)**
+👉 **[Mariners City Connect Jersey — Fanatics](https://fanatics.93n6tx.net/GbKekE)**
 
 👉 **[Mariners City Connect Jersey — MLB Shop](https://www.mlbshop.com/seattle-mariners/city-connect)**
 
