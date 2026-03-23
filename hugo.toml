@@ -50,11 +50,7 @@ paginate = 10
     name = "Tickets"
     url = "/tickets/"
     weight = 30
-  [[menu.main]]
-    identifier = "fantasy"
-    name = "Fantasy"
-    url = "/fantasy/"
-    weight = 40
+
 
 [taxonomies]
   category = "categories"

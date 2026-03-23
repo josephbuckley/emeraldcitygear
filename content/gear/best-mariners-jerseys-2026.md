@@ -48,12 +48,6 @@ The face of the franchise. J-Rod jerseys are the top seller and for good reason 
 
 👉 **[Cal Raleigh Mariners Jersey — Fanatics](https://fanatics.93n6tx.net/2RaEB7)**
 
-### Mitch Haniger — Check Current Roster
-
-*Note: Haniger's roster status can change — verify he's still on the active Mariners roster before ordering.* When active, his jersey has been a solid pick for fans who've followed him through the injury years and come out the other side as true believers. If he's on the team, it's a meaningful choice.
-
-👉 **[Mitch Haniger Mariners Jersey — MLB Shop](https://www.mlbshop.com/seattle-mariners/mitch-haniger)**
-
 ### Ken Griffey Jr. — Retro #24
 
 The greatest Mariner. The Hall of Famer. The man whose poster was on more Seattle bedroom walls than anyone in franchise history. A Griffey retro jersey isn't just a jersey — it's a piece of Mariners identity. Everyone in your section will recognize it. Everyone over 30 will have a feeling about it.
