@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Opening Day on Emerald City Gear</title>
-    <link>https://emeraldcitygear.com/tags/opening-day/</link>
-    <description>Recent content in Opening Day on Emerald City Gear</description>
+    <title>Cal Raleigh on Emerald City Gear</title>
+    <link>https://emeraldcitygear.com/tags/cal-raleigh/</link>
+    <description>Recent content in Cal Raleigh on Emerald City Gear</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://emeraldcitygear.com/tags/opening-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://emeraldcitygear.com/tags/cal-raleigh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unfinished Business: The Seattle Mariners&#39; 2026 Season Preview</title>
       <link>https://emeraldcitygear.com/gear/mariners-2026-season-preview-unfinished-business/</link>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://emeraldcitygear.com/gear/mariners-2026-season-preview-unfinished-business/</guid>
       <description>The Mariners lost the ALCS in seven games last year. Now they&amp;#39;re back — 50 years in, hungrier than ever, and opening at home Thursday against Cleveland. Here&amp;#39;s what to expect.</description>
-    </item>
-    <item>
-      <title>Seattle Mariners Opening Day 2026: Everything You Need to Be Ready</title>
-      <link>https://emeraldcitygear.com/gear/mariners-opening-day-guide-2026/</link>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://emeraldcitygear.com/gear/mariners-opening-day-guide-2026/</guid>
-      <description>Opening Day is Thursday, March 26. Here&amp;#39;s everything you need — tickets, gear, how to watch, and key games to mark on your calendar for the Mariners&amp;#39; 50th anniversary season.</description>
     </item>
   </channel>
 </rss>
