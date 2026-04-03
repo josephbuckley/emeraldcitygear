@@ -5,9 +5,9 @@ description: "The Mariners fell 6-4 to Cleveland on Opening Day, but there's sti
 categories: ["Tickets"]
 tags: ["mariners", "opening day", "cleveland guardians", "new york yankees", "game preview", "tickets", "logan gilbert", "brendan donovan", "dominic canzone", "cal raleigh", "julio rodriguez"]
 cover:
-  image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Seattle_Stadiums.jpg"
-  alt: "Aerial view of T-Mobile Park, Seattle"
-  caption: "Photo: Paul Schultz / Wikimedia Commons (CC BY 2.0)"
+  image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Cal_Raleigh_in_2024.jpg"
+  alt: "Cal Raleigh, Seattle Mariners catcher, June 2024"
+  caption: "Photo: Liannadavis / Wikimedia Commons (CC BY-SA 4.0)"
   relative: false
 ---
 

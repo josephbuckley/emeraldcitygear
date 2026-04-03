@@ -6,9 +6,9 @@ categories: ["Gear & Gifts"]
 tags: ["2026", "season preview", "Julio Rodriguez", "Cal Raleigh", "Logan Gilbert", "opening day", "ALCS", "50th anniversary"]
 weight: 1
 cover:
-  image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Seattle_Stadiums.jpg"
-  alt: "Aerial view of T-Mobile Park, Seattle"
-  caption: "Photo: Paul Schultz / Wikimedia Commons (CC BY 2.0)"
+  image: "https://upload.wikimedia.org/wikipedia/commons/5/56/Julio_Rodriguez_%28oFImZG-qsk4%29.png"
+  alt: "Julio Rodríguez, Seattle Mariners outfielder"
+  caption: "Photo: Latinos En Pelota / Wikimedia Commons (CC BY 3.0)"
   relative: false
 ---
 

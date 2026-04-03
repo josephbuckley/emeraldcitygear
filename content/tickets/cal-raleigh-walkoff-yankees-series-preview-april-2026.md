@@ -5,9 +5,9 @@ description: "Cal Raleigh's walk-off single caps back-to-back 2-1 wins over the 
 categories: ["Tickets"]
 tags: ["cal raleigh", "mariners vs yankees", "2026 season", "t-mobile park", "ichiro", "opening series", "april schedule"]
 cover:
-  image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Seattle_Stadiums.jpg"
-  alt: "Aerial view of T-Mobile Park, Seattle"
-  caption: "Photo: Paul Schultz / Wikimedia Commons (CC BY 2.0)"
+  image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Cal_Raleigh_in_2024.jpg"
+  alt: "Cal Raleigh, Seattle Mariners catcher, June 2024"
+  caption: "Photo: Liannadavis / Wikimedia Commons (CC BY-SA 4.0)"
   relative: false
 ---
 

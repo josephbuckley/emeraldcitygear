@@ -5,9 +5,9 @@ description: "The Mariners signed top prospect Colt Emerson to a historic $95 mi
 categories: ["Gear & Gifts"]
 tags: ["colt emerson", "mariners prospects", "julio rodriguez", "cal raleigh", "mariners news", "mariners 2026"]
 cover:
-  image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Seattle_Stadiums.jpg"
-  alt: "Aerial view of T-Mobile Park, Seattle"
-  caption: "Photo: Paul Schultz / Wikimedia Commons (CC BY 2.0)"
+  image: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Mariners_dugout_2010.jpg"
+  alt: "Seattle Mariners dugout at Safeco Field"
+  caption: "Photo: aphid00 / Wikimedia Commons (CC BY-SA 2.0)"
   relative: false
 ---
 
