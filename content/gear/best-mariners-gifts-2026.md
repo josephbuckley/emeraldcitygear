@@ -1,4 +1,4 @@
----
+﻿---
 title: "The Best Seattle Mariners Gifts in 2026 (For Every Kind of Fan)"
 date: 2026-03-18
 description: "The best Seattle Mariners gifts in 2026 — jerseys, hats, retro gear, and unique ideas for every Mariners fan on your list. All available on Fanatics and MLB Shop."
@@ -31,7 +31,7 @@ If you're buying for a fan who follows the current roster, two names dominate:
 
 You can't go wrong with Griffey. Fanatics carries the white cooperstown replica — clean and classic. If you want the teal throwback, Mitchell & Ness is where to look.
 
-👉 **[Ken Griffey Jr. Mariners Jersey — Fanatics](https://fanatics.93n6tx.net/en19xO)**
+👉 **[Ken Griffey Jr. Mariners Jersey — Fanatics](https://fanatics.93n6tx.net/en19xO?subId1=best-mariners-gifts-2026)**
 
 **Budget tip:** Replica jerseys run $120–$150. Authentic jerseys are $200–$350. For most gift recipients, replica is the right call.
 
@@ -50,7 +50,7 @@ If the person grew up in the Randy Johnson era, the teal throwback cap delivers 
 ### City Connect Hat
 The Mariners' City Connect gear — inspired by Pacific Northwest aesthetics — has been a fan favorite for something a bit different from standard navy.
 
-👉 **[Shop Mariners Hats on Fanatics](https://fanatics.93n6tx.net/MKAJYq)**
+👉 **[Shop Mariners Hats on Fanatics](https://fanatics.93n6tx.net/MKAJYq?subId1=best-mariners-gifts-2026)**
 
 ---
 
@@ -63,7 +63,7 @@ Not every gift needs to be a jersey:
 - **Mariners Socks** — Sounds low-key but fans genuinely love good novelty socks
 - **Mariners T-Shirt** — Look for 47 Brand soft-style tees; avoid the cheap generic ones that pill immediately
 
-👉 **[Shop Mariners Gifts Under $50](https://fanatics.93n6tx.net/MKAJYq)**
+👉 **[Shop Mariners Gifts Under $50](https://fanatics.93n6tx.net/MKAJYq?subId1=best-mariners-gifts-2026)**
 
 ---
 
@@ -76,7 +76,7 @@ Kids grow fast and Mariners fans train them early.
 - **Mariners Backpack** — Practical, used constantly, available on Fanatics
 - **Youth Baseball Glove** — Pair a Rawlings or Wilson glove in navy with a Mariners hat for a full starter-pack gift
 
-👉 **[Shop Kids Mariners Gear](https://fanatics.93n6tx.net/n4XGZA)**
+👉 **[Shop Kids Mariners Gear](https://fanatics.93n6tx.net/n4XGZA?subId1=best-mariners-gifts-2026)**
 
 ---
 
@@ -89,7 +89,7 @@ The most experiential gift you can give. A home game — especially with good se
 
 **Pro tip:** Lower level along first or third base line. Sections 120–135 and 145–160 are the sweet spots.
 
-👉 **[Find Mariners Tickets on SeatGeek](https://seatgeek.com/seattle-mariners-tickets)**
+👉 **[Find Mariners Tickets on SeatGeek](https://seatgeek.com/seattle-mariners-tickets?subId1=best-mariners-gifts-2026)**
 
 ### Personalized Mariners Jersey
 Fanatics lets you put a custom name and number on a Mariners jersey. Turnaround is usually 3–4 weeks, so plan ahead.
@@ -107,7 +107,7 @@ Most "best Mariners gifts" guides default to men's jerseys. The women's gear sel
 - **Women's Mariners T-Shirt** — The Fanatics "relaxed fit" line is popular
 - **Women's Replica Jersey** — Same players (Julio, Cal, Griffey), cut for a women's fit
 
-👉 **[Shop Women's Mariners Gear](https://fanatics.93n6tx.net/zzxE5r)**
+👉 **[Shop Women's Mariners Gear](https://fanatics.93n6tx.net/zzxE5r?subId1=best-mariners-gifts-2026)**
 
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Unfinished Business: The Seattle Mariners' 2026 Season Preview"
 date: 2026-03-25
 description: "The Mariners lost the ALCS in seven games last year. Now they're back — 50 years in, hungrier than ever, and opening at home Thursday against Cleveland. Here's what to expect."
@@ -6,9 +6,9 @@ categories: ["Gear & Gifts"]
 tags: ["2026", "season preview", "Julio Rodriguez", "Cal Raleigh", "Logan Gilbert", "opening day", "ALCS", "50th anniversary"]
 weight: 1
 cover:
-  image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SafecoFieldTop.jpg/1280px-SafecoFieldTop.jpg"
-  alt: "T-Mobile Park interior with roof open, Seattle Mariners home stadium"
-  caption: "Photo: Wikimedia Commons (CC BY-SA 2.5)"
+  image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Seattle_Stadiums.jpg"
+  alt: "Aerial view of T-Mobile Park, Seattle"
+  caption: "Photo: Paul Schultz / Wikimedia Commons (CC BY 2.0)"
   relative: false
 ---
 
@@ -28,11 +28,11 @@ The Mariners didn't blow it up after the ALCS loss. Why would they? This is the 
 
 **Julio Rodríguez** is 23 years old and already a franchise cornerstone. After two seasons of learning the big leagues, his power stroke came into focus last year — and this season, he's expected to take another step. J-Rod is the reason you buy a jersey and keep wearing it for the next ten years.
 
-👉 **[Julio Rodríguez Jersey — Fanatics](https://fanatics.93n6tx.net/JkKGYq)**
+👉 **[Julio Rodríguez Jersey — Fanatics](https://fanatics.93n6tx.net/JkKGYq?subId1=mariners-2026-season-preview-unfinished-business)**
 
 **Cal Raleigh** hit 60 home runs in 2025. Sixty. He won a Gold Glove, he was the emotional engine of the playoff run, and he's coming back from the World Baseball Classic ready to go. The man nicknamed "Big Dumper" is firmly in the conversation for best catcher in baseball.
 
-👉 **[Cal Raleigh Jersey — Fanatics](https://fanatics.93n6tx.net/2RaEB7)**
+👉 **[Cal Raleigh Jersey — Fanatics](https://fanatics.93n6tx.net/2RaEB7?subId1=mariners-2026-season-preview-unfinished-business)**
 
 Both are locked up long-term. Both are still improving. That's not a foundation — that's a dynasty in the making.
 
@@ -66,11 +66,11 @@ This season has weight beyond wins and losses. The Mariners turn 50, and the tea
 
 Speaking of Johnson: **May 2 is Randy Johnson #51 Retirement Ceremony Night.** The Big Unit. If you're going to exactly one game this season that isn't a playoff game, that's the one. Grab tickets now before they're gone.
 
-👉 **[Find Mariners Tickets — SeatGeek](https://seatgeek.com/seattle-mariners-tickets)**
+👉 **[Find Mariners Tickets — SeatGeek](https://seatgeek.com/seattle-mariners-tickets?subId1=mariners-2026-season-preview-unfinished-business)**
 
 The Cooperstown throwback jersey honoring Griffey never goes out of style either — especially this anniversary year.
 
-👉 **[Ken Griffey Jr. Throwback Jersey — Fanatics](https://fanatics.93n6tx.net/en19xO)**
+👉 **[Ken Griffey Jr. Throwback Jersey — Fanatics](https://fanatics.93n6tx.net/en19xO?subId1=mariners-2026-season-preview-unfinished-business)**
 
 ---
 
@@ -90,10 +90,10 @@ The unfinished business is still unfinished. Go get it.
 
 If you're showing up Thursday — or watching from your couch with the right jersey on — here's what to grab:
 
-- 🎽 **[Julio Rodríguez Jersey](https://fanatics.93n6tx.net/JkKGYq)** — The face of the franchise
-- 🎽 **[Cal Raleigh Jersey](https://fanatics.93n6tx.net/2RaEB7)** — The heart of the team
-- 🎽 **[Ken Griffey Jr. Throwback](https://fanatics.93n6tx.net/en19xO)** — Honor the 50 years
-- 🎽 **[All Mariners Jerseys — Fanatics](https://fanatics.93n6tx.net/MKAJYq)** — Full selection
-- 🎟️ **[Find Mariners Tickets — SeatGeek](https://seatgeek.com/seattle-mariners-tickets)** — Games all season
+- 🎽 **[Julio Rodríguez Jersey](https://fanatics.93n6tx.net/JkKGYq?subId1=mariners-2026-season-preview-unfinished-business)** — The face of the franchise
+- 🎽 **[Cal Raleigh Jersey](https://fanatics.93n6tx.net/2RaEB7?subId1=mariners-2026-season-preview-unfinished-business)** — The heart of the team
+- 🎽 **[Ken Griffey Jr. Throwback](https://fanatics.93n6tx.net/en19xO?subId1=mariners-2026-season-preview-unfinished-business)** — Honor the 50 years
+- 🎽 **[All Mariners Jerseys — Fanatics](https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-2026-season-preview-unfinished-business)** — Full selection
+- 🎟️ **[Find Mariners Tickets — SeatGeek](https://seatgeek.com/seattle-mariners-tickets?subId1=mariners-2026-season-preview-unfinished-business)** — Games all season
 
 Go M's. ⚾ Let's finally get there.

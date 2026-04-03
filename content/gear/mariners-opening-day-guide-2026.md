@@ -1,4 +1,4 @@
----
+﻿---
 title: "Seattle Mariners Opening Day 2026: Everything You Need to Be Ready"
 date: 2026-03-23
 description: "Opening Day is Thursday, March 26. Here's everything you need — tickets, gear, how to watch, and key games to mark on your calendar for the Mariners' 50th anniversary season."
@@ -33,7 +33,7 @@ A few tips:
 - **Best seats for the money:** Lower level along the first or third base lines (sections 120–135 and 145–160). You're close to the action without paying premium behind home plate.
 - **March weather in Seattle:** It's going to be cold and possibly wet. Layer up.
 
-👉 **[Find Mariners Opening Day Tickets — SeatGeek](https://seatgeek.com/seattle-mariners-tickets)**
+👉 **[Find Mariners Opening Day Tickets — SeatGeek](https://seatgeek.com/seattle-mariners-tickets?subId1=mariners-opening-day-guide-2026)**
 
 ---
 
@@ -45,17 +45,17 @@ The two obvious choices for 2026:
 
 **Julio Rodríguez #44** — The face of the franchise, the guy you're betting the next decade on. If you don't have a J-Rod jersey yet, Opening Day is the occasion to fix that.
 
-👉 **[Julio Rodríguez Jersey — Fanatics](https://fanatics.93n6tx.net/JkKGYq)**
+👉 **[Julio Rodríguez Jersey — Fanatics](https://fanatics.93n6tx.net/JkKGYq?subId1=mariners-opening-day-guide-2026)**
 
 **Cal Raleigh #29** — Big Dumper hit 60 home runs last season. He's getting a bobblehead for it on March 28 (two days after Opening Day). Wearing his jersey this week feels appropriate.
 
-👉 **[Cal Raleigh Jersey — Fanatics](https://fanatics.93n6tx.net/2RaEB7)**
+👉 **[Cal Raleigh Jersey — Fanatics](https://fanatics.93n6tx.net/2RaEB7?subId1=mariners-opening-day-guide-2026)**
 
 Want something that honors the 50-year history? The Griffey cooperstown throwback never goes out of style.
 
-👉 **[Ken Griffey Jr. Throwback Jersey — Fanatics](https://fanatics.93n6tx.net/en19xO)**
+👉 **[Ken Griffey Jr. Throwback Jersey — Fanatics](https://fanatics.93n6tx.net/en19xO?subId1=mariners-opening-day-guide-2026)**
 
-👉 **[Shop All Mariners Jerseys — Fanatics](https://fanatics.93n6tx.net/MKAJYq)**
+👉 **[Shop All Mariners Jerseys — Fanatics](https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-opening-day-guide-2026)**
 
 ---
 
@@ -87,14 +87,14 @@ While you're planning Opening Day, a few other dates worth knowing:
 
 The bobblehead and giveaway nights sell out fast. If you want to go to the Cal Raleigh bobblehead game on March 28 — that's this Saturday — grab tickets today.
 
-👉 **[Find Mariners Tickets — SeatGeek](https://seatgeek.com/seattle-mariners-tickets)**
+👉 **[Find Mariners Tickets — SeatGeek](https://seatgeek.com/seattle-mariners-tickets?subId1=mariners-opening-day-guide-2026)**
 
 ---
 
 ## Quick Links
 
-- 🎽 [Shop Mariners Jerseys — Fanatics](https://fanatics.93n6tx.net/MKAJYq)
-- 🎟️ [Find Tickets — SeatGeek](https://seatgeek.com/seattle-mariners-tickets)
+- 🎽 [Shop Mariners Jerseys — Fanatics](https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-opening-day-guide-2026)
+- 🎟️ [Find Tickets — SeatGeek](https://seatgeek.com/seattle-mariners-tickets?subId1=mariners-opening-day-guide-2026)
 - 📺 [How to Watch: Full Guide](/watch/how-to-watch-mariners-2026/)
 - 🪑 [Best Seats at T-Mobile Park](/tickets/best-seats-tmobile-park/)
 

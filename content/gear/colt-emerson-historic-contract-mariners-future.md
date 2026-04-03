@@ -1,13 +1,13 @@
----
+﻿---
 title: "Colt Emerson Just Signed the Most Historic Deal in Mariners History — and He Hasn't Even Debuted Yet"
 date: 2026-04-03
 description: "The Mariners locked up top prospect Colt Emerson to an 8-year, $95 million deal before his MLB debut — the largest pre-debut contract in baseball history. Here's what it means for Seattle's future."
 categories: ["Gear & Gifts"]
 tags: ["colt emerson", "mariners prospects", "mariners news", "seattle mariners", "julio rodriguez", "cal raleigh", "mariners jerseys"]
 cover:
-  image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SafecoFieldTop.jpg/1280px-SafecoFieldTop.jpg"
-  alt: "T-Mobile Park, home of the Seattle Mariners, in Seattle Washington"
-  caption: "Photo: Wikimedia Commons"
+  image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Seattle_Stadiums.jpg"
+  alt: "Aerial view of T-Mobile Park, Seattle"
+  caption: "Photo: Paul Schultz / Wikimedia Commons (CC BY 2.0)"
   relative: false
 ---
 
@@ -70,12 +70,12 @@ When Emerson gets the call later this year, you'll want to be ready. Fair warnin
 
 Whether you're heading to T-Mobile Park for the Astros series or watching from home, rep the team right:
 
-- 🧢 **[Julio Rodríguez Jersey](https://fanatics.93n6tx.net/JkKGYq)** — The face of the franchise
-- 🧢 **[Cal Raleigh Jersey](https://fanatics.93n6tx.net/2RaEB7)** — Big Dumper himself
-- 🧢 **[Ken Griffey Jr. Jersey](https://fanatics.93n6tx.net/en19xO)** — Always a classic
-- 🧢 **[City Connect Jerseys](https://fanatics.93n6tx.net/GbKekE)** — Fresh Seattle drip
-- 🧢 **[All Mariners Jerseys](https://fanatics.93n6tx.net/MKAJYq)** — Browse the full collection
-- 🎟️ **[Mariners Tickets on SeatGeek](https://seatgeek.com/seattle-mariners-tickets)** — Snag seats for the Astros series April 10–13
+- 🧢 **[Julio Rodríguez Jersey](https://fanatics.93n6tx.net/JkKGYq?subId1=colt-emerson-historic-contract-mariners-future)** — The face of the franchise
+- 🧢 **[Cal Raleigh Jersey](https://fanatics.93n6tx.net/2RaEB7?subId1=colt-emerson-historic-contract-mariners-future)** — Big Dumper himself
+- 🧢 **[Ken Griffey Jr. Jersey](https://fanatics.93n6tx.net/en19xO?subId1=colt-emerson-historic-contract-mariners-future)** — Always a classic
+- 🧢 **[City Connect Jerseys](https://fanatics.93n6tx.net/GbKekE?subId1=colt-emerson-historic-contract-mariners-future)** — Fresh Seattle drip
+- 🧢 **[All Mariners Jerseys](https://fanatics.93n6tx.net/MKAJYq?subId1=colt-emerson-historic-contract-mariners-future)** — Browse the full collection
+- 🎟️ **[Mariners Tickets on SeatGeek](https://seatgeek.com/seattle-mariners-tickets?subId1=colt-emerson-historic-contract-mariners-future)** — Snag seats for the Astros series April 10–13
 
 The next chapter of Mariners baseball is being written right now. And a kid named Colt Emerson is going to be a big part of it.
 

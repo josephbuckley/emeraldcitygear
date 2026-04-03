@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Seats at T-Mobile Park: A Section-by-Section Guide"
 date: 2026-03-18
 description: "Best seats at T-Mobile Park for Seattle Mariners games — section-by-section breakdown for every type of fan and budget."
@@ -38,7 +38,7 @@ This is the best bang-for-your-buck zone in the park. You're close enough to fee
 
 **Who this is for:** Everyone, honestly — but especially the fan who wants a legitimately good view without going full premium.
 
-👉 **[Find Lower Bowl Infield Seats on SeatGeek](https://www.seatgeek.com/seattle-mariners-tickets)**
+👉 **[Find Lower Bowl Infield Seats on SeatGeek](https://www.seatgeek.com/seattle-mariners-tickets?subId1=best-seats-tmobile-park)**
 
 ### Lower Bowl Behind Home Plate — Premium Seats
 
@@ -54,7 +54,7 @@ This is the premium zone. You're looking straight out at the pitcher, you see ev
 
 **Who this is for:** Special occasions, baseball obsessives who want the perfect angle, corporate outings, anniversary trips to the ballpark.
 
-👉 **[Find Premium Home Plate Seats on SeatGeek](https://www.seatgeek.com/seattle-mariners-tickets)**
+👉 **[Find Premium Home Plate Seats on SeatGeek](https://www.seatgeek.com/seattle-mariners-tickets?subId1=best-seats-tmobile-park)**
 
 ### Outfield Bleachers — Cheap Fun
 
@@ -78,7 +78,7 @@ The bleachers are their own thing at T-Mobile Park. The left field bleachers esp
 
 **Who this is for:** Groups who want to have fun more than they want to see every pitch perfectly. Budget-conscious fans. People who want cheap entry and don't mind a festive environment. The "grab a beer and cheer" crowd.
 
-👉 **[Find Bleacher Seats on SeatGeek](https://www.seatgeek.com/seattle-mariners-tickets)**
+👉 **[Find Bleacher Seats on SeatGeek](https://www.seatgeek.com/seattle-mariners-tickets?subId1=best-seats-tmobile-park)**
 
 ### Upper Deck — Hidden Gems and Sections to Avoid
 
@@ -94,7 +94,7 @@ The upper deck at T-Mobile Park gets a bad reputation it doesn't fully deserve �
 
 **Who upper deck infield is for:** Budget-conscious fans who still want to actually watch baseball. Families where the kids are young enough to need cheap tickets. People who genuinely enjoy the panoramic view.
 
-👉 **[Find Upper Deck Seats on SeatGeek](https://www.seatgeek.com/seattle-mariners-tickets)**
+👉 **[Find Upper Deck Seats on SeatGeek](https://www.seatgeek.com/seattle-mariners-tickets?subId1=best-seats-tmobile-park)**
 
 ## Best Seats by Type of Fan
 
@@ -120,7 +120,7 @@ Serious fans actually have two valid options: lower bowl for the close-up view o
 
 You can watch a great game from the right field sections or upper deck infield for $15–25 on SeatGeek on a non-premium game. The trick is to avoid Opening Day, rivalry games, and postseason — prices on those are non-negotiable. Pick a Tuesday-Thursday midseason game against a middle-of-the-pack AL opponent and you'll find deals.
 
-👉 **[Browse Cheap Mariners Tickets on SeatGeek](https://www.seatgeek.com/seattle-mariners-tickets)**
+👉 **[Browse Cheap Mariners Tickets on SeatGeek](https://www.seatgeek.com/seattle-mariners-tickets?subId1=best-seats-tmobile-park)**
 
 ### Special Occasions
 **Recommendation:** Sections 100–110 (lower bowl home plate) or Club Level
@@ -176,7 +176,7 @@ SeatGeek's "Deal Score" feature rates tickets on a scale based on comparable sea
 
 **The zone method:** Instead of searching for a specific section, search by zone (infield lower, outfield, upper deck) and let the price comparison surface the best value in that area.
 
-👉 **[Search Mariners Tickets on SeatGeek](https://www.seatgeek.com/seattle-mariners-tickets)**
+👉 **[Search Mariners Tickets on SeatGeek](https://www.seatgeek.com/seattle-mariners-tickets?subId1=best-seats-tmobile-park)**
 
 ## Quick Reference: Sections at a Glance
 

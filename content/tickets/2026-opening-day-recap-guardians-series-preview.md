@@ -1,13 +1,13 @@
----
+﻿---
 title: "Rough Start: Mariners Drop Opening Day, But the Series Isn't Over"
 date: 2026-03-27
 description: "The Mariners fell 6-4 to Cleveland on Opening Day, but there's still plenty to build on — and three more games against the Guardians this weekend before the Yankees roll into town."
 categories: ["Tickets"]
 tags: ["mariners", "opening day", "cleveland guardians", "new york yankees", "game preview", "tickets", "logan gilbert", "brendan donovan", "dominic canzone", "cal raleigh", "julio rodriguez"]
 cover:
-  image: "https://upload.wikimedia.org/wikipedia/commons/1/10/SafecoFieldTop.jpg"
-  alt: "T-Mobile Park interior with retractable roof open, Seattle"
-  caption: "Photo: Cacophony / Wikimedia Commons (CC BY-SA 3.0)"
+  image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Seattle_Stadiums.jpg"
+  alt: "Aerial view of T-Mobile Park, Seattle"
+  caption: "Photo: Paul Schultz / Wikimedia Commons (CC BY 2.0)"
   relative: false
 ---
 
@@ -41,7 +41,7 @@ The good news is you get another shot almost immediately. The Mariners and Guard
 
 Cleveland is a scrappy team — DeLauter is for real, and the Guardians won the AL Central last year — but this is a very winnable series at home. If the Mariners can take two of three, that's a fine start to the year.
 
-**Tickets for this weekend's games** are still available. Grab them before they're gone — [check SeatGeek for the best deals on remaining Guardians tickets](https://seatgeek.com/seattle-mariners-tickets).
+**Tickets for this weekend's games** are still available. Grab them before they're gone — [check SeatGeek for the best deals on remaining Guardians tickets](https://seatgeek.com/seattle-mariners-tickets?subId1=2026-opening-day-recap-guardians-series-preview).
 
 ## Then the Yankees Come to Town
 
@@ -49,15 +49,15 @@ As if this homestand couldn't get more interesting: **New York rolls in March 30
 
 Those games are going to be electric. T-Mobile Park against the Yankees is exactly the kind of early-season showdown that reminds you why you love baseball. If you can get to one game this homestand, the Yankees series might be the one.
 
-[→ Grab Yankees series tickets on SeatGeek](https://seatgeek.com/seattle-mariners-tickets)
+[→ Grab Yankees series tickets on SeatGeek](https://seatgeek.com/seattle-mariners-tickets?subId1=2026-opening-day-recap-guardians-series-preview)
 
 ## What to Watch Going Forward
 
 A few storylines worth tracking as the season kicks off:
 
-**Cal Raleigh's bat.** "Big Dumper" had an MVP-caliber season last year and is one of the best catchers in the game. When Raleigh is locked in, the whole lineup feels different. Want to rep him this season? [His jersey](https://fanatics.93n6tx.net/2RaEB7) is worth every penny.
+**Cal Raleigh's bat.** "Big Dumper" had an MVP-caliber season last year and is one of the best catchers in the game. When Raleigh is locked in, the whole lineup feels different. Want to rep him this season? [His jersey](https://fanatics.93n6tx.net/2RaEB7?subId1=2026-opening-day-recap-guardians-series-preview) is worth every penny.
 
-**Julio Rodríguez's ascent.** J-Rod is in his prime and building toward superstar status. He's the face of this franchise and the guy who can single-handedly change a game. [Grab his jersey](https://fanatics.93n6tx.net/JkKGYq) and wear it proudly at the park.
+**Julio Rodríguez's ascent.** J-Rod is in his prime and building toward superstar status. He's the face of this franchise and the guy who can single-handedly change a game. [Grab his jersey](https://fanatics.93n6tx.net/JkKGYq?subId1=2026-opening-day-recap-guardians-series-preview) and wear it proudly at the park.
 
 **The young guns.** Cole Young looked impressive all spring. **JJ Wetherholt** made the Opening Day roster straight out of prospect status. The Mariners have real talent developing in this system, and 2026 might be the year it starts showing up in the box score consistently.
 
@@ -71,8 +71,8 @@ Logan Gilbert is an ace. Cal Raleigh is elite. Julio Rodríguez hasn't even reac
 
 Get to the ballpark this weekend. It's early, it's fixable, and baseball in Seattle in March still beats basically everything else.
 
-[→ All remaining 2026 Mariners tickets on SeatGeek](https://seatgeek.com/seattle-mariners-tickets)
+[→ All remaining 2026 Mariners tickets on SeatGeek](https://seatgeek.com/seattle-mariners-tickets?subId1=2026-opening-day-recap-guardians-series-preview)
 
 ---
 
-*Looking to gear up for the home opener? Check out the full [Mariners jersey collection](https://fanatics.93n6tx.net/MKAJYq) — from Julio to Cal Raleigh to the City Connect line, there's something for every fan in the family.*
+*Looking to gear up for the home opener? Check out the full [Mariners jersey collection](https://fanatics.93n6tx.net/MKAJYq?subId1=2026-opening-day-recap-guardians-series-preview) — from Julio to Cal Raleigh to the City Connect line, there's something for every fan in the family.*
