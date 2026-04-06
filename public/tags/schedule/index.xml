@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mariners on Emerald City Gear</title>
-    <link>https://emeraldcitygear.com/tags/mariners/</link>
-    <description>Recent content in Mariners on Emerald City Gear</description>
+    <title>Schedule on Emerald City Gear</title>
+    <link>https://emeraldcitygear.com/tags/schedule/</link>
+    <description>Recent content in Schedule on Emerald City Gear</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://emeraldcitygear.com/tags/mariners/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://emeraldcitygear.com/tags/schedule/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Astros Are Coming to T-Mobile Park — And This Is a Series You Need to See</title>
       <link>https://emeraldcitygear.com/tickets/astros-series-preview-april-2026/</link>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://emeraldcitygear.com/tickets/astros-series-preview-april-2026/</guid>
       <description>The Seattle Mariners host the Houston Astros for a four-game divisional series April 10–13 at T-Mobile Park. Here&amp;#39;s why this is the home stand you shouldn&amp;#39;t miss.</description>
-    </item>
-    <item>
-      <title>Rough Start: Mariners Drop Opening Day, But the Series Isn&#39;t Over</title>
-      <link>https://emeraldcitygear.com/tickets/2026-opening-day-recap-guardians-series-preview/</link>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://emeraldcitygear.com/tickets/2026-opening-day-recap-guardians-series-preview/</guid>
-      <description>The Mariners fell 6-4 to Cleveland on Opening Day, but there&amp;#39;s still plenty to build on — and three more games against the Guardians this weekend before the Yankees roll into town.</description>
     </item>
   </channel>
 </rss>
