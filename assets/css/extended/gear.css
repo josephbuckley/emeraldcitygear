@@ -211,7 +211,6 @@ body.list .main:has(.ecg-gear-hero) {
   .ecg-gear-cats {
     grid-template-columns: 1fr;
   }
-@media (max-width: 640px) {
   .ecg-section-head {
     flex-direction: column;
     align-items: flex-start;
