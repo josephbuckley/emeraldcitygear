@@ -5,7 +5,7 @@ description: "The 2026 Vedder Cup is already underway in San Diego. Here's the f
 categories: ["Gear & Gifts"]
 tags: ["mariners", "vedder cup", "san diego padres", "mariners news", "interleague", "mariners 2026"]
 cover:
-  image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/T-Mobile_Park_0017.jpg/1280px-T-Mobile_Park_0017.jpg"
+  image: "https://upload.wikimedia.org/wikipedia/commons/6/63/T-Mobile_Park_0017.jpg"
   alt: "T-Mobile Park in Seattle, home of the Seattle Mariners"
   caption: "Photo: Wikimedia Commons"
   relative: false

@@ -2,7 +2,9 @@ baseURL = "https://emeraldcitygear.com/"
 languageCode = "en-us"
 title = "Emerald City Gear"
 theme = "PaperMod"
-paginate = 10
+
+[pagination]
+  pagerSize = 10
 
 [params.logo]
   url = "/logo.png"

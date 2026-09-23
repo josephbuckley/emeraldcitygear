@@ -1,0 +1,86 @@
+{{ define "main" }}
+
+{{ $recent := first 7 .Site.RegularPages.ByDate.Reverse }}
+{{ $featured := index $recent 0 }}
+{{ $cards := after 1 $recent }}
+
+<!-- Featured story hero -->
+{{ with $featured }}
+<section class="ecg-hero" {{ with .Params.cover }}style="background-image: url('{{ .image }}')"{{ end }}>
+  <div class="ecg-hero-overlay"></div>
+  <div class="ecg-hero-inner">
+    <span class="ecg-kicker">Featured Story</span>
+    <h1 class="ecg-hero-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+    <p class="ecg-hero-desc">{{ .Description | default (.Summary | plainify) | truncate 180 }}</p>
+    <div class="ecg-hero-meta">
+      <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+      <span aria-hidden="true">·</span>
+      <span>{{ .ReadingTime }} min read</span>
+    </div>
+    <a class="ecg-btn" href="{{ .RelPermalink }}">Read the story</a>
+  </div>
+</section>
+{{ end }}
+
+<!-- Latest stories card grid -->
+<section class="ecg-section">
+  <div class="ecg-section-head">
+    <h2>The Latest from the Corner of Edgar &amp; Dave</h2>
+  </div>
+  <div class="ecg-grid">
+    {{ range $cards }}
+    <article class="ecg-card">
+      <a class="ecg-card-link" href="{{ .RelPermalink }}">
+        {{ with .Params.cover }}
+        <div class="ecg-card-img" style="background-image: url('{{ .image }}')" role="img" aria-label="{{ .alt }}"></div>
+        {{ end }}
+        <div class="ecg-card-body">
+          {{ range first 1 .Params.categories }}<span class="ecg-card-cat">{{ . }}</span>{{ end }}
+          <h3>{{ .Title }}</h3>
+          <p>{{ .Description | default (.Summary | plainify) | truncate 120 }}</p>
+          <div class="ecg-card-meta">{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min</div>
+        </div>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+</section>
+
+<!-- Section tiles -->
+<section class="ecg-section">
+  <div class="ecg-section-head">
+    <h2>Find your lane</h2>
+  </div>
+  <div class="ecg-tiles">
+    <a class="ecg-tile ecg-tile-watch" href="/watch/">
+      <span class="ecg-tile-icon" aria-hidden="true">📺</span>
+      <h3>Watch</h3>
+      <p>Every way to stream the Mariners, home and away.</p>
+    </a>
+    <a class="ecg-tile ecg-tile-gear" href="/gear/">
+      <span class="ecg-tile-icon" aria-hidden="true">🧢</span>
+      <h3>Gear &amp; Gifts</h3>
+      <p>Jerseys, hats, and gift guides for the obsessed.</p>
+    </a>
+    <a class="ecg-tile ecg-tile-tickets" href="/tickets/">
+      <span class="ecg-tile-icon" aria-hidden="true">🎟️</span>
+      <h3>Tickets</h3>
+      <p>Series previews and T-Mobile Park game-day tips.</p>
+    </a>
+  </div>
+</section>
+
+<!-- Affiliate gear strip -->
+<section class="ecg-gearstrip">
+  <div class="ecg-gearstrip-inner">
+    <h2>Rep the town. Gear up for the stretch run.</h2>
+    <p>Official Mariners gear through our Fanatics partner links — every order keeps Emerald City Gear running.</p>
+    <div class="ecg-gearstrip-btns">
+      <a class="ecg-btn ecg-btn-light" href="https://fanatics.93n6tx.net/JkKGYq?subId1=homepage" rel="sponsored nofollow noopener" target="_blank">Julio Rodríguez Jersey</a>
+      <a class="ecg-btn ecg-btn-light" href="https://fanatics.93n6tx.net/GbKekE?subId1=homepage" rel="sponsored nofollow noopener" target="_blank">City Connect Gear</a>
+      <a class="ecg-btn ecg-btn-light" href="https://fanatics.93n6tx.net/MKAJYq?subId1=homepage" rel="sponsored nofollow noopener" target="_blank">Shop All Mariners Gear</a>
+    </div>
+  </div>
+</section>
+
+{{ end }}

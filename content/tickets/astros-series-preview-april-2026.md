@@ -5,7 +5,7 @@ description: "The Seattle Mariners host the Houston Astros for a four-game divis
 categories: ["Tickets"]
 tags: ["mariners", "astros", "schedule", "t-mobile park", "series preview", "al west", "tickets"]
 cover:
-  image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/SafecoFieldTop.jpg/1280px-SafecoFieldTop.jpg"
+  image: "https://upload.wikimedia.org/wikipedia/commons/1/10/SafecoFieldTop.jpg"
   alt: "T-Mobile Park aerial view, home of the Seattle Mariners"
   caption: "Photo: Wikimedia Commons"
   relative: false
