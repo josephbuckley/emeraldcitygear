@@ -1,0 +1,161 @@
+{{ define "main" }}
+
+<!-- Gear hero -->
+<section class="ecg-gear-hero" style="background-image: url('/images/gear/julio-home-jersey.jpg')">
+  <div class="ecg-gear-hero-overlay"></div>
+  <div class="ecg-gear-hero-inner">
+    <span class="ecg-kicker">Mariners Gear &amp; Gifts</span>
+    <h1>Rep the town.<br>Gear up.</h1>
+    <p>Official Seattle Mariners jerseys, hats, and gifts through our Fanatics partner links — every order keeps Emerald City Gear running.</p>
+    <div class="ecg-gear-hero-btns">
+      <a class="ecg-btn" href="https://fanatics.93n6tx.net/MKAJYq?subId1=gear-hero" rel="sponsored nofollow noopener" target="_blank">Shop All Mariners Gear</a>
+      <a class="ecg-btn ecg-btn-ghost" href="https://fanatics.93n6tx.net/JkKGYq?subId1=gear-hero" rel="sponsored nofollow noopener" target="_blank">Shop Jerseys</a>
+    </div>
+  </div>
+</section>
+
+<!-- Shop by category -->
+<section class="ecg-section">
+  <div class="ecg-section-head">
+    <h2>Shop by category</h2>
+  </div>
+  <div class="ecg-gear-cats">
+    <a class="ecg-gear-cat" href="https://fanatics.93n6tx.net/JkKGYq?subId1=gear-jerseys" rel="sponsored nofollow noopener" target="_blank">
+      <span class="ecg-gear-cat-img"><img src="/images/gear/julio-home-jersey.jpg" alt="Julio Rodríguez Nike home replica Mariners jersey" loading="lazy"></span>
+      <h3>Jerseys</h3>
+      <p>Julio, Cal Raleigh, Griffey throwbacks and more.</p>
+      <span class="ecg-gear-cat-cta">Shop jerseys →</span>
+    </a>
+    <a class="ecg-gear-cat" href="https://fanatics.93n6tx.net/GbKekE?subId1=gear-city-connect" rel="sponsored nofollow noopener" target="_blank">
+      <span class="ecg-gear-cat-img"><img src="/images/gear/city-connect-jersey.jpg" alt="Cal Raleigh Nike City Connect Mariners jersey in blue" loading="lazy"></span>
+      <h3>City Connect</h3>
+      <p>The PNW-inspired alternates, done right.</p>
+      <span class="ecg-gear-cat-cta">Shop City Connect →</span>
+    </a>
+    <a class="ecg-gear-cat" href="https://fanatics.93n6tx.net/MKAJYq?subId1=gear-hats" rel="sponsored nofollow noopener" target="_blank">
+      <span class="ecg-gear-cat-img"><img src="/images/gear/mariners-59fifty-fitted.jpg" alt="Seattle Mariners New Era 59FIFTY fitted hat in navy" loading="lazy"></span>
+      <h3>Hats</h3>
+      <p>Fitted, snapback, and beanies for every season.</p>
+      <span class="ecg-gear-cat-cta">Shop hats →</span>
+    </a>
+    <a class="ecg-gear-cat" href="https://fanatics.93n6tx.net/zzxE5r?subId1=gear-womens" rel="sponsored nofollow noopener" target="_blank">
+      <span class="ecg-gear-cat-img"><img src="/images/gear/cal-womens-jersey.jpg" alt="Cal Raleigh Nike women's home replica Mariners jersey" loading="lazy"></span>
+      <h3>Women's Gear</h3>
+      <p>Cuts and styles made for her, not shrunk for her.</p>
+      <span class="ecg-gear-cat-cta">Shop women's →</span>
+    </a>
+    <a class="ecg-gear-cat" href="https://fanatics.93n6tx.net/n4XGZA?subId1=gear-kids" rel="sponsored nofollow noopener" target="_blank">
+      <span class="ecg-gear-cat-img"><img src="/images/gear/julio-youth-jersey.jpg" alt="Julio Rodríguez Nike youth home Mariners jersey" loading="lazy"></span>
+      <h3>Kids' Gear</h3>
+      <p>Start 'em young — sizes for the whole crew.</p>
+      <span class="ecg-gear-cat-cta">Shop kids' →</span>
+    </a>
+    <a class="ecg-gear-cat" href="https://fanatics.93n6tx.net/MKAJYq?subId1=gear-gifts" rel="sponsored nofollow noopener" target="_blank">
+      <span class="ecg-gear-cat-img"><img src="/images/gear/mariners-hoodie.jpg" alt="Seattle Mariners Champion fleece full-zip hoodie in navy" loading="lazy"></span>
+      <h3>Gifts Under $50</h3>
+      <p>Big fandom energy, small price tag.</p>
+      <span class="ecg-gear-cat-cta">Shop gifts →</span>
+    </a>
+  </div>
+</section>
+
+<!-- Fan favorites -->
+<section class="ecg-section">
+  <div class="ecg-section-head">
+    <h2>Fan favorites</h2>
+    <p class="ecg-gear-sub">The best-selling Mariners gear right now, through our Fanatics partner links.</p>
+  </div>
+  {{ $products := slice
+    (dict "name" "Julio Rodríguez Nike Home Replica Jersey" "price" "$149.99" "img" "julio-home-jersey.jpg" "link" "JkKGYq")
+    (dict "name" "Cal Raleigh Nike Home Replica Jersey" "price" "$175.00" "img" "cal-home-jersey.jpg" "link" "2RaEB7")
+    (dict "name" "Ken Griffey Jr. Nike Home Replica Jersey" "price" "$174.99" "img" "griffey-home-jersey.jpg" "link" "en19xO")
+    (dict "name" "New Era 59FIFTY Fitted Hat – Navy" "price" "$49.99" "img" "mariners-59fifty-fitted.jpg" "link" "MKAJYq")
+    (dict "name" "New Era 9FORTY Adjustable Hat – Navy" "price" "$38.99" "img" "mariners-9forty-adjustable.jpg" "link" "MKAJYq")
+    (dict "name" "Julio Rodríguez Nike Youth Home Jersey" "price" "$89.99" "img" "julio-youth-jersey.jpg" "link" "n4XGZA")
+    (dict "name" "Julio Rodríguez Nike Fuse Tee – Teal" "price" "$22.99" "img" "julio-fuse-tee.jpg" "link" "JkKGYq")
+    (dict "name" "Julio Rodríguez Nike Name & Number Tee – Natural" "price" "$32.49" "img" "julio-number-tee.png" "link" "JkKGYq")
+    (dict "name" "Cal Raleigh Nike Women's Home Replica Jersey" "price" "$149.99" "img" "cal-womens-jersey.jpg" "link" "zzxE5r")
+    (dict "name" "Champion Fleece Full-Zip Hoodie – Navy" "price" "$44.99" "img" "mariners-hoodie.jpg" "link" "MKAJYq")
+    (dict "name" "New Era Team Color Trucker 9FIFTY Snapback – Navy" "price" "$42.99" "img" "mariners-trucker-hat.jpg" "link" "MKAJYq")
+  }}
+  <div class="ecg-products">
+    {{ range $products }}
+    <article class="ecg-product">
+      <a href="https://fanatics.93n6tx.net/{{ .link }}?subId1=gear-products" rel="sponsored nofollow noopener" target="_blank">
+        <span class="ecg-product-img"><img src="/images/gear/{{ .img }}" alt="{{ .name }} – Seattle Mariners gear" loading="lazy"></span>
+        <span class="ecg-product-body">
+          <span class="ecg-product-name">{{ .name }}</span>
+          <span class="ecg-product-price">{{ .price }}</span>
+          <span class="ecg-product-cta">Shop now →</span>
+        </span>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+  <p class="ecg-price-note">Prices checked September 23, 2026 — they can shift, and promo codes come and go.</p>
+</section>
+
+<!-- Gift guides -->
+<section class="ecg-section">
+  <div class="ecg-section-head">
+    <h2>Gift guides</h2>
+  </div>
+  <div class="ecg-grid">
+    {{ with .Site.GetPage "/gear/best-mariners-gifts-2026" }}
+    <article class="ecg-card">
+      <a class="ecg-card-link" href="{{ .RelPermalink }}">
+        {{ with .Params.cover }}
+        <div class="ecg-card-img" style="background-image: url('{{ .image }}')" role="img" aria-label="{{ .alt }}"></div>
+        {{ end }}
+        <div class="ecg-card-body">
+          <span class="ecg-card-cat">Gift Guide</span>
+          <h3>{{ .Title }}</h3>
+          <p>{{ .Description | default (.Summary | plainify) | truncate 120 }}</p>
+          <div class="ecg-card-meta">{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min</div>
+        </div>
+      </a>
+    </article>
+    {{ end }}
+    {{ with .Site.GetPage "/gear/best-mariners-jerseys-2026" }}
+    <article class="ecg-card">
+      <a class="ecg-card-link" href="{{ .RelPermalink }}">
+        {{ with .Params.cover }}
+        <div class="ecg-card-img" style="background-image: url('{{ .image }}')" role="img" aria-label="{{ .alt }}"></div>
+        {{ end }}
+        <div class="ecg-card-body">
+          <span class="ecg-card-cat">Gift Guide</span>
+          <h3>{{ .Title }}</h3>
+          <p>{{ .Description | default (.Summary | plainify) | truncate 120 }}</p>
+          <div class="ecg-card-meta">{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min</div>
+        </div>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+</section>
+
+<!-- Latest gear stories -->
+<section class="ecg-section">
+  <div class="ecg-section-head">
+    <h2>The latest gear stories</h2>
+  </div>
+  <div class="ecg-grid">
+    {{ range first 6 .Pages.ByDate.Reverse }}
+    <article class="ecg-card">
+      <a class="ecg-card-link" href="{{ .RelPermalink }}">
+        {{ with .Params.cover }}
+        <div class="ecg-card-img" style="background-image: url('{{ .image }}')" role="img" aria-label="{{ .alt }}"></div>
+        {{ end }}
+        <div class="ecg-card-body">
+          {{ range first 1 .Params.categories }}<span class="ecg-card-cat">{{ . }}</span>{{ end }}
+          <h3>{{ .Title }}</h3>
+          <p>{{ .Description | default (.Summary | plainify) | truncate 120 }}</p>
+          <div class="ecg-card-meta">{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min</div>
+        </div>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}
