@@ -24,3 +24,26 @@
 {{ else }}
 <meta property="og:type" content="article">
 {{ end }}
+
+{{/* Gift-guide structured data: ItemList for pages with giftguide: true */}}
+{{ if .Params.giftguide }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": {{ .Title | jsonify | safeJS }},
+  "description": {{ .Params.description | default .Summary | jsonify | safeJS }},
+  "url": {{ .Permalink | jsonify | safeJS }}{{ with .Params.gift_items }},
+  "numberOfItems": {{ len . }},
+  "itemListElement": [
+    {{ range $i, $item := . }}{{ if $i }},{{ end }}
+    {
+      "@type": "ListItem",
+      "position": {{ add $i 1 }},
+      "name": {{ $item.name | jsonify | safeJS }}{{ with $item.image }},
+      "image": {{ . | absURL | jsonify | safeJS }}{{ end }}
+    }{{ end }}
+  ]{{ end }}
+}
+</script>
+{{ end }}
