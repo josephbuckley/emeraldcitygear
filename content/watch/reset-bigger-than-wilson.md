@@ -1,10 +1,11 @@
 ---
 title: "The Reset Is Bigger Than Wilson"
 date: 2026-10-07T10:00:00-07:00
-summary: "Dipoto wants an experienced manager, four more coaches are out, and the candidate board keeps moving — Lovullo's off it, Espada's a free agent, Pujols is available, and Mattingly's staying in Philly. The 2027 Mariners are being rebuilt from the dugout up."
+summary: "The search is over: Jason Kanzler is the 22nd manager, Tanner Swanson his bench coach, CJ Gillman the hitting coach — the reset that started with Dan Wilson's exit now has its dugout. Updated November 9."
 categories: ["Watch"]
-tags: ["Dan Wilson", "Torey Lovullo", "Jerry Dipoto", "Mariners", "MLB", "Offseason", "Albert Pujols", "Don Mattingly"]
-description: "After Dan Wilson's departure, the Mariners parted ways with four more coaches and Jerry Dipoto said the search will prioritize an experienced manager. Breaking down the reset and the moving candidate board."
+tags: ["Dan Wilson", "Torey Lovullo", "Jerry Dipoto", "Mariners", "MLB", "Offseason", "Albert Pujols", "Don Mattingly", "Jason Kanzler", "Tanner Swanson"]
+description: "After Dan Wilson's departure, the Mariners parted ways with four more coaches and ran a full managerial search — and landed on first-time manager Jason Kanzler, with Tanner Swanson as bench coach and CJ Gillman as hitting coach. The reset, updated through November 9."
+lastmod: 2026-11-09T12:00:00-08:00
 ---
 
 Last week we buried the Dan Wilson era. Turns out the organization wasn't done digging.
@@ -30,5 +31,15 @@ And one opinion piece now worth retracting: SI's FanNation argued Seattle *shoul
 One more thing, because it's easy to lose in the wreckage: Kade Anderson — the kid whose rookie season ended with a line drive off his forearm in last Sunday's finale — just won Baseball America's 2026 Minor League Pitcher of the Year. That's the future, bruised forearm and all. The next manager inherits him, Gilbert, and Woo. There are worse foundations.
 
 So: Wilson's gone, the coaches are gone, the experienced-manager mandate is public, and the phone calls are happening. This is the third dugout change in four years, and Dipoto knows he can't afford to get it wrong. Neither can we — which is why we're holding this one for the next shoe to drop.
+
+**Update, November 9: the search is over — and the "experienced manager" mandate didn't survive it.** The Mariners have officially named Jason Kanzler, 36, as their 22nd manager, choosing the Cubs' director of player development (since 2024) over fellow finalist Joe Espada. Kanzler has never managed at any level — he was an Astros minor-league hitting coach 2019–2021 and on the major-league staff in 2022–2023, including the World Series-winning team — making him the second-youngest manager in baseball. Worth noting: Dipoto is now 3-for-3 on hiring first-time managers in Seattle, which is a funny way to prioritize experience. Kanzler's line in the announcement: "This team has an immense amount of talent in all facets of the game, and my coaching staff and I are excited to access and unlock this team's full potential."
+
+At Wednesday's introductory press conference, Kanzler said the brand of baseball he wants is "step on their throats" — but that he won't impose an identity, believing it will surface organically. He called building player relationships probably his top priority, joked about his Astros past — "the team that shall not be named… this atmosphere is electric" — and said he wants to "ride the lightning with this team and this city."
+
+The staff is taking shape around him. Pitching coach Pete Woodworth and director of pitching strategy Trent Blank are confirmed back next season, with the search for the rest of the staff underway. The Athletic reports the Mariners are hiring CJ Gillman as hitting coach — the first new staff appointment of the rebuild, reported before a manager was even named, filling the chair vacated by Kevin Seitzer. One correction to the early color on that hire: Kanzler pushed back on reports that he and Gillman are "close friends" — said that wasn't accurate, though the two know each other from Gillman's years as Seattle's minor-league hitting coordinator. His description of Gillman: "no-nonsense, high-standards, high-challenge, high-support."
+
+And the bench chair is filled. The Mariners announced Friday that Tanner Swanson, 44, a Washington native from Cle Elum and Central Washington University alum, is Jason Kanzler's bench coach. Swanson spent seven seasons with the Yankees — catching coordinator since November 2019, then director of catching and major-league field coordinator — and was Great Britain's bench coach in the 2026 World Baseball Classic and filled in as acting Yankees manager for a game in July. A catching-development hire, landing on a team whose leader is Cal Raleigh. We'll have more on what that means.
+
+One more piece of good news from the same stretch: Cole Young won his first career Gold Glove on November 1 — just the third Mariners second baseman in history to win one. The reset is about the dugout, but the infield it serves just picked up its first hardware.
 
 Two quick housekeeping notes: nobody has clarified whether Wilson was fired or stepped down, so we're not picking a version. And the Lovullo line: he's not a candidate, he's not a free agent, he's not coming — the earlier version of this post said otherwise and was wrong. The correction is above.
