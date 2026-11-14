@@ -75,6 +75,7 @@ Whether you're heading to T-Mobile Park for the Astros series or watching from h
 - 🧢 **[Ken Griffey Jr. Jersey](https://fanatics.93n6tx.net/en19xO?subId1=colt-emerson-historic-contract-mariners-future)** — Always a classic
 - 🧢 **[City Connect Jerseys](https://fanatics.93n6tx.net/GbKekE?subId1=colt-emerson-historic-contract-mariners-future)** — Fresh Seattle drip
 - 🧢 **[All Mariners Jerseys](https://fanatics.93n6tx.net/MKAJYq?subId1=colt-emerson-historic-contract-mariners-future)** — Browse the full collection
+- 🎁 **[Shopping for a Mariners fan this Christmas?](/gear/mariners-christmas-gifts-2026/)** — 15 gift ideas for every budget, with Black Friday prices and shipping deadlines
 - 🎟️ **[Mariners Tickets on SeatGeek](https://seatgeek.com/seattle-mariners-tickets?subId1=colt-emerson-historic-contract-mariners-future)** — Snag seats for the Astros series April 10–13
 
 The next chapter of Mariners baseball is being written right now. And a kid named Colt Emerson is going to be a big part of it.

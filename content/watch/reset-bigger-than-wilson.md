@@ -5,7 +5,7 @@ summary: "The search is over: Jason Kanzler is the 22nd manager, Tanner Swanson 
 categories: ["Watch"]
 tags: ["Dan Wilson", "Torey Lovullo", "Jerry Dipoto", "Mariners", "MLB", "Offseason", "Albert Pujols", "Don Mattingly", "Jason Kanzler", "Tanner Swanson"]
 description: "After Dan Wilson's departure, the Mariners parted ways with four more coaches and ran a full managerial search — and landed on first-time manager Jason Kanzler, with Tanner Swanson as bench coach and CJ Gillman as hitting coach. The reset, updated through November 9."
-lastmod: 2026-11-09T12:00:00-08:00
+lastmod: 2026-11-14T12:00:00-08:00
 ---
 
 Last week we buried the Dan Wilson era. Turns out the organization wasn't done digging.
@@ -22,7 +22,7 @@ Speaking of which: the candidate board is already crowded — and already wrong 
 
 Here's where it gets messy. Torey Lovullo is off the board: Arizona extended him on a two-year deal before his old contract expired, so per Nightengale, he never became a free agent and the Mariners never got to formally contact him. All that "I wanna be wanted" drama ended with the guy getting wanted in the desert. Forget the tea leaves.
 
-More names, in no order of likelihood: Adam Jude's list also includes Pirates bench coach Kristopher Negrón — a familiar face, since he ran the Tacoma Rainiers in 2021 and coached first and third in Seattle from 2022–25. The Athletic floated Joe Espada as a fit — and the Astros resolved the conditional themselves on Wednesday: they announced they won't renew his contract (256-229 over three seasons, two AL West titles, swept in both wild-card trips), a day after granting Seattle permission to interview him. He's a free agent now, not a poach. Per FOX 13, via the Seattle Times' Adam Jude: Seattle's initial candidate list had upwards of 40 names, and the first Espada conversation is expected to be virtual — no in-person meetings scheduled yet. Cora looks headed to Philadelphia: the NY Post reports he has the inside track there with Mattingly expected to step down. And a new name for Seattle's list: Carlos Mendoza, whom the same piece names as fitting the Mariners' experience requirement.
+More names, in no order of likelihood: Adam Jude's list also includes Pirates bench coach Kristopher Negrón — a familiar face, since he ran the Tacoma Rainiers in 2021 and coached first and third in Seattle from 2022–25. The Athletic floated Joe Espada as a fit — and the Astros resolved the conditional themselves on Wednesday: they announced they won't renew his contract (256-229 over three seasons, two AL West titles, swept in both wild-card trips), a day after granting Seattle permission to interview him. He's a free agent now, not a poach. Per FOX 13, via the Seattle Times' Adam Jude: Seattle's initial candidate list had upwards of 40 names, and the first Espada conversation is expected to be virtual — no in-person meetings scheduled yet.
 
 One more genuinely new name: Albert Pujols told Nightengale he interviewed for the Angels and Padres jobs last offseason, denied reports of heavy contract demands, and hopes a managing job materializes. He's available — but he's not a reported Seattle target, just a new name on the shelf.
 

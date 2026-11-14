@@ -57,6 +57,8 @@ Want something that honors the 50-year history? The Griffey cooperstown throwbac
 
 👉 **[Shop All Mariners Jerseys — Fanatics](https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-opening-day-guide-2026)**
 
+🎁 **Shopping for a Mariners fan?** Our [2026 Christmas gift guide](/gear/mariners-christmas-gifts-2026/) has 15 ideas for every budget — jerseys, hats, and stocking stuffers, with Black Friday prices.
+
 ---
 
 ## Watching From Home
