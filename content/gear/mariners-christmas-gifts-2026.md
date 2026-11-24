@@ -1,6 +1,7 @@
 ---
 title: "15 Seattle Mariners Christmas Gifts for 2026 (With Black Friday Prices)"
 date: 2026-10-06
+lastmod: 2026-11-24
 description: "The 2026 Seattle Mariners Christmas gift guide — 15 gift ideas for every budget, Black Friday deal timing, and shipping deadlines."
 categories: ["Gear & Gifts"]
 tags: ["gifts", "christmas", "holiday", "fanatics", "2026"]
@@ -25,11 +26,11 @@ cover:
 
 Christmas shopping for a Mariners fan shouldn't require a scouting report. Here's the 2026 list — every pick a real fan would actually want, ordered roughly by how much of a sure thing it is, with honest pricing and when to buy.
 
-**The short version:** buy jerseys and big-ticket gear during Black Friday week when Fanatics runs its usual 25% off. Order personalized jerseys by early December. Everything else, get it ordered by mid-December for standard Christmas delivery.
+**The short version:** Fanatics' live Black Friday promo is **code WRAP — 30% off orders of $50+ (25% off with no minimum), through December 1**. Buy jerseys and big-ticket gear this week while it's live. Order personalized jerseys by early December. Everything else, get it ordered by mid-December for standard Christmas delivery.
 
 ---
 
-## 1. Julio Rodríguez Nike Home Replica Jersey — ~$150 ($112 on Black Friday)
+## 1. Julio Rodríguez Nike Home Replica Jersey — ~$150 (about $105 with code WRAP)
 
 The single safest Mariners Christmas gift. Julio is the face of the franchise, the navy home jersey is iconic, and replica (not authentic) is the right call for 95% of gift recipients.
 
@@ -37,7 +38,7 @@ The single safest Mariners Christmas gift. Julio is the face of the franchise, t
 
 👉 **[Julio Rodríguez Jersey — Fanatics](https://fanatics.93n6tx.net/JkKGYq?subId1=mariners-christmas-gifts-2026)**
 
-## 2. Cal Raleigh Nike Home Replica Jersey — ~$175 ($130 on Black Friday)
+## 2. Cal Raleigh Nike Home Replica Jersey — ~$175 (about $122 with code WRAP)
 
 Big Dumper. The nickname alone sells it, and Cal's walk-off heroics made his gear the hottest seller on the roster. If the person on your list yells at the TV during ninth innings, this is the one.
 
@@ -139,12 +140,12 @@ The experiential gift. Opening Day 2027 tickets go on sale in the offseason, and
 
 ---
 
-## Black Friday Deal Calendar
+## Black Friday Deal Calendar — Live Promo: Code WRAP
 
-- **Thanksgiving week:** Fanatics' biggest sale of the year — expect ~25% off sitewide on Mariners gear. Buy jerseys and hoodies here.
+- **Now through December 1:** Fanatics' live Black Friday promo is **code WRAP — 30% off orders of $50+, 25% off with no minimum**. Buy jerseys and hoodies here. (The earlier MERRY code, up to 50% off, expired November 23.)
 - **Early December:** order any personalized/custom gear (3–4 week turnaround).
 - **Mid-December:** last call for standard shipping on everything else.
 
-We'll update prices and promo codes on this page as the sales go live.
+*Promo checked November 24, 2026. Prices are estimates — check the current price on Fanatics before buying.*
 
 Go M's. ⚾

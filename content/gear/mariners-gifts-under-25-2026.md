@@ -1,6 +1,7 @@
 ---
 title: "10 Seattle Mariners Gifts Under $25 (2026)"
 date: 2026-10-13
+lastmod: 2026-11-24
 description: "The 2026 Seattle Mariners budget gift guide — 10 gifts under $25 that fans will actually use, from novelty socks to mini helmets, with honest prices."
 categories: ["Gear & Gifts"]
 tags: ["gifts", "budget", "under-25", "holiday", "fanatics", "2026"]
@@ -25,7 +26,7 @@ cover:
 
 Not every Mariners gift needs to be a jersey. The under-$25 tier is where the stocking stuffers and the "I saw this and thought of you" gifts live — and honestly, fans use this stuff every day. Here's the 2026 list, all honestly under twenty-five bucks.
 
-**The short version:** socks, ornaments, and mini helmets are the can't-miss trio. Watch Fanatics clearance for tees and hats that dip under $25 during sales.
+**The short version:** socks, ornaments, and mini helmets are the can't-miss trio. Watch Fanatics clearance for tees and hats that dip under $25 during sales — and this week the live Black Friday code **WRAP takes 25% off with no minimum (30% off orders of $50+), through December 1**.
 
 ---
 
@@ -97,7 +98,9 @@ Same deal: the 9FORTY adjustable is ~$35 at full price, but clearance and sale e
 
 ## When to Buy
 
-- **Black Friday week:** Fanatics' biggest sale of the year — this is when the clearance tees and hats in items 9 and 10 actually hit under-$25 prices.
+- **Now through December 1:** Fanatics' live Black Friday promo is **code WRAP — 25% off with no minimum, 30% off orders of $50+**. The 25%-off tier with no minimum is the one that matters here: it takes a ~$15 ornament or socks set to about $11, and it's when the clearance tees and hats in items 9 and 10 actually hit under-$25 prices.
 - **Mid-December:** last call for standard shipping on everything else.
+
+*Promo checked November 24, 2026. Prices are estimates — check the current price on Fanatics before buying.*
 
 Go M's. ⚾

@@ -1,6 +1,7 @@
 ---
 title: "10 Seattle Mariners Gifts for Kids (2026)"
 date: 2026-10-13
+lastmod: 2026-11-24
 description: "The 2026 Seattle Mariners kids' gift guide — 10 gifts young fans will actually love, from youth jerseys to Mariner Moose plush, with honest prices."
 categories: ["Gear & Gifts"]
 tags: ["gifts", "kids", "holiday", "fanatics", "2026"]
@@ -27,7 +28,7 @@ cover:
 
 Kids don't care about your gift budget. They care about whether they look like their favorite player on Christmas morning. Here's the 2026 list — every pick a young Mariners fan will actually wear, use, or refuse to put down.
 
-**The short version:** a youth jersey is the Christmas-morning reaction gift. Everything else fills out the stocking. Buy during Black Friday week when Fanatics runs its usual ~25% off sitewide.
+**The short version:** a youth jersey is the Christmas-morning reaction gift. Everything else fills out the stocking. Buy this week with Fanatics' live Black Friday code **WRAP — 30% off orders of $50+ (25% off with no minimum), through December 1**.
 
 ---
 
@@ -103,7 +104,9 @@ The experiential gift. A family four-pack for an early-season 2027 game — or O
 
 ## When to Buy
 
-- **Black Friday week:** Fanatics' biggest sale of the year — expect ~25% off sitewide. Buy the jersey and hoodie here.
+- **Now through December 1:** Fanatics' live Black Friday promo is **code WRAP — 30% off orders of $50+, 25% off with no minimum**. Buy the jersey and hoodie here — a ~$110 youth jersey comes to about $77 with the code (check current price).
 - **Mid-December:** last call for standard shipping on everything else.
+
+*Promo checked November 24, 2026. Prices are estimates — check the current price on Fanatics before buying.*
 
 Go M's. ⚾

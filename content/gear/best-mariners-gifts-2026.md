@@ -1,7 +1,7 @@
 ---
 title: "The Best Seattle Mariners Gifts for Christmas 2026 (For Every Kind of Fan)"
 date: 2026-03-18
-lastmod: 2026-09-24
+lastmod: 2026-11-24
 description: "The best Seattle Mariners Christmas gifts in 2026 — jerseys, hats, stocking stuffers, and Black Friday deals for every Mariners fan on your list."
 categories: ["Gear & Gifts"]
 tags: ["gifts", "christmas", "jerseys", "gear", "fanatics", "2026"]
@@ -25,7 +25,7 @@ This guide is here to help. Updated for the 2026 holiday season with Christmas-s
 
 A few holiday-specific notes before the picks:
 
-- **Fanatics runs its biggest promos of the year around Black Friday.** The Mariners store regularly hits 25% off sitewide, and that's when you want to buy jerseys and big-ticket gear. Bookmark this page and buy the week of Thanksgiving.
+- **Fanatics' live Black Friday promo is code WRAP: 30% off orders of $50+ (25% off with no minimum), good through December 1.** That's the deepest sitewide code running right now — the earlier MERRY code (up to 50% off) expired November 23. Buy jerseys and big-ticket gear this week while WRAP is live.
 - **Personalized jerseys need 3–4 weeks.** If you want a custom name and number, order by early December at the latest.
 - **Standard shipping:** order by mid-December for Christmas delivery. Don't be the person panic-buying a Cal Raleigh jersey on December 23rd.
 
@@ -163,17 +163,19 @@ Most "best Mariners gifts" guides default to men's jerseys. The women's gear sel
 
 ---
 
-## Black Friday & Holiday Deals
+## Black Friday & Holiday Deals — Live Promo: Code WRAP
 
-This is the part that saves you real money. Fanatics runs its deepest discounts of the year the week of Thanksgiving — typically 25% off sitewide on Mariners gear, sometimes deeper on select items. That turns a $150 Julio jersey into roughly $112.
+This is the part that saves you real money. Fanatics' live Black Friday promo is **code WRAP: 30% off orders of $50+ and 25% off with no minimum, through December 1, 2026** — confirmed on Fanatics' Mariners sale page today. That turns a ~$150 Julio jersey into roughly $105 at checkout (check current price — list prices move during sale week). Clearance items are already marked down up to 85% on top of that.
 
 The playbook:
 
 1. **Decide what you're buying now** (this guide exists for a reason).
-2. **Buy during Black Friday week**, not in December when prices bounce back.
+2. **Buy this week with code WRAP** — the code expires December 1, and prices bounce back after the sale.
 3. **Check the gift guide on Fanatics directly** — their holiday gift sections get updated with exclusive bundles.
 
-We'll update this guide with live prices and promo codes as the holiday sales drop.
+Bonus: Target is running a Fanatics $100 eGift Card + $20 Target Gift Card deal this week if you'd rather give a gift card.
+
+*Promo checked November 24, 2026. Prices are estimates — check the current price on Fanatics before buying.*
 
 ---
 
