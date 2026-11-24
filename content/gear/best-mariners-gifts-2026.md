@@ -25,7 +25,7 @@ This guide is here to help. Updated for the 2026 holiday season with Christmas-s
 
 A few holiday-specific notes before the picks:
 
-- **Fanatics' live Black Friday promo is code WRAP: 30% off orders of $50+ (25% off with no minimum), good through December 1.** That's the deepest sitewide code running right now — the earlier MERRY code (up to 50% off) expired November 23. Buy jerseys and big-ticket gear this week while WRAP is live.
+- **Fanatics is rotating promo codes all week.** **WRAP** (30% off orders of $50+, 25% off with no minimum, plus an extra 10% off clearance) runs Tuesday–Wednesday, November 24–25. **BF60** (35% off, up to 60% off with tiered offers) takes over Thursday–Friday for Black Friday — that's the deepest code of the week. **CELEBRATE** (30% off) runs Saturday and **CYBER60** (35% off) Sunday. If you can wait until Thursday, buy the jerseys and big-ticket gear with BF60; if you can't, WRAP is live right now.
 - **Personalized jerseys need 3–4 weeks.** If you want a custom name and number, order by early December at the latest.
 - **Standard shipping:** order by mid-December for Christmas delivery. Don't be the person panic-buying a Cal Raleigh jersey on December 23rd.
 
@@ -163,14 +163,21 @@ Most "best Mariners gifts" guides default to men's jerseys. The women's gear sel
 
 ---
 
-## Black Friday & Holiday Deals — Live Promo: Code WRAP
+## Black Friday & Holiday Deals — This Week's Promo Codes
 
-This is the part that saves you real money. Fanatics' live Black Friday promo is **code WRAP: 30% off orders of $50+ and 25% off with no minimum, through December 1, 2026** — confirmed on Fanatics' Mariners sale page today. That turns a ~$150 Julio jersey into roughly $105 at checkout (check current price — list prices move during sale week). Clearance items are already marked down up to 85% on top of that.
+This is the part that saves you real money. Fanatics is running a different code almost every day this week, per its Black Friday promo calendar:
+
+- **Tue–Wed, Nov 24–25 — WRAP:** 30% off orders of $50+, 25% off with no minimum, plus an extra 10% off clearance.
+- **Thu–Fri, Nov 26–27 — BF60:** 35% off, up to 60% off with tiered offers. The week's best code.
+- **Sat, Nov 28 — CELEBRATE:** 30% off, up to 50% off with tiered offers.
+- **Sun, Nov 29 — CYBER60:** 35% off, up to 60% off with tiered offers.
+
+A ~$150 Julio jersey comes to roughly $105 with WRAP today, or about $98 with BF60 on Thursday–Friday (check current price — list prices move during sale week). Clearance items are already marked down on top of that. There are daily category deals too: hats $17.99 on Wednesday, tees 50% off Thursday, fleece 60% off Friday.
 
 The playbook:
 
 1. **Decide what you're buying now** (this guide exists for a reason).
-2. **Buy this week with code WRAP** — the code expires December 1, and prices bounce back after the sale.
+2. **Buy on the right day** — WRAP through Wednesday night, BF60 Thursday–Friday for the deepest cut, CELEBRATE Saturday, CYBER60 Sunday. Prices bounce back after the sale week.
 3. **Check the gift guide on Fanatics directly** — their holiday gift sections get updated with exclusive bundles.
 
 Bonus: Target is running a Fanatics $100 eGift Card + $20 Target Gift Card deal this week if you'd rather give a gift card.

@@ -28,7 +28,7 @@ cover:
 
 Kids don't care about your gift budget. They care about whether they look like their favorite player on Christmas morning. Here's the 2026 list — every pick a young Mariners fan will actually wear, use, or refuse to put down.
 
-**The short version:** a youth jersey is the Christmas-morning reaction gift. Everything else fills out the stocking. Buy this week with Fanatics' live Black Friday code **WRAP — 30% off orders of $50+ (25% off with no minimum), through December 1**.
+**The short version:** a youth jersey is the Christmas-morning reaction gift. Everything else fills out the stocking. Buy this week with Fanatics' rotating codes — **WRAP** (30% off orders of $50+, 25% off with no minimum) Tuesday–Wednesday, then **BF60** (35% off) Thursday–Friday, the week's deepest cut.
 
 ---
 
@@ -104,7 +104,8 @@ The experiential gift. A family four-pack for an early-season 2027 game — or O
 
 ## When to Buy
 
-- **Now through December 1:** Fanatics' live Black Friday promo is **code WRAP — 30% off orders of $50+, 25% off with no minimum**. Buy the jersey and hoodie here — a ~$110 youth jersey comes to about $77 with the code (check current price).
+- **Tue–Wed, Nov 24–25 — WRAP:** 30% off orders of $50+, 25% off with no minimum. A ~$110 youth jersey comes to about $77 (check current price). Wednesday's daily deal is kids' hats at $14.99.
+- **Thu–Fri, Nov 26–27 — BF60:** 35% off, up to 60% off with tiered offers — the week's best code. That same youth jersey drops to about $72. **CELEBRATE** (30% off) follows Saturday and **CYBER60** (35% off) Sunday if the weekend gets away from you.
 - **Mid-December:** last call for standard shipping on everything else.
 
 *Promo checked November 24, 2026. Prices are estimates — check the current price on Fanatics before buying.*

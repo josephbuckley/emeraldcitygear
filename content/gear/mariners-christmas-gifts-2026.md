@@ -26,11 +26,11 @@ cover:
 
 Christmas shopping for a Mariners fan shouldn't require a scouting report. Here's the 2026 list — every pick a real fan would actually want, ordered roughly by how much of a sure thing it is, with honest pricing and when to buy.
 
-**The short version:** Fanatics' live Black Friday promo is **code WRAP — 30% off orders of $50+ (25% off with no minimum), through December 1**. Buy jerseys and big-ticket gear this week while it's live. Order personalized jerseys by early December. Everything else, get it ordered by mid-December for standard Christmas delivery.
+**The short version:** Fanatics is rotating codes all week — **WRAP** (30% off orders of $50+, 25% off with no minimum) Tuesday–Wednesday, **BF60** (35% off) Thursday–Friday for Black Friday, **CELEBRATE** (30% off) Saturday, and **CYBER60** (35% off) Sunday. BF60 is the deepest cut, so buy jerseys and big-ticket gear Thursday–Friday if you can wait — WRAP if you can't. Order personalized jerseys by early December. Everything else, get it ordered by mid-December for standard Christmas delivery.
 
 ---
 
-## 1. Julio Rodríguez Nike Home Replica Jersey — ~$150 (about $105 with code WRAP)
+## 1. Julio Rodríguez Nike Home Replica Jersey — ~$150 (about $105 with code WRAP, ~$98 with BF60 Thu–Fri)
 
 The single safest Mariners Christmas gift. Julio is the face of the franchise, the navy home jersey is iconic, and replica (not authentic) is the right call for 95% of gift recipients.
 
@@ -38,7 +38,7 @@ The single safest Mariners Christmas gift. Julio is the face of the franchise, t
 
 👉 **[Julio Rodríguez Jersey — Fanatics](https://fanatics.93n6tx.net/JkKGYq?subId1=mariners-christmas-gifts-2026)**
 
-## 2. Cal Raleigh Nike Home Replica Jersey — ~$175 (about $122 with code WRAP)
+## 2. Cal Raleigh Nike Home Replica Jersey — ~$175 (about $122 with code WRAP, ~$114 with BF60 Thu–Fri)
 
 Big Dumper. The nickname alone sells it, and Cal's walk-off heroics made his gear the hottest seller on the roster. If the person on your list yells at the TV during ninth innings, this is the one.
 
@@ -140,9 +140,13 @@ The experiential gift. Opening Day 2027 tickets go on sale in the offseason, and
 
 ---
 
-## Black Friday Deal Calendar — Live Promo: Code WRAP
+## Black Friday Deal Calendar — This Week's Promo Codes
 
-- **Now through December 1:** Fanatics' live Black Friday promo is **code WRAP — 30% off orders of $50+, 25% off with no minimum**. Buy jerseys and hoodies here. (The earlier MERRY code, up to 50% off, expired November 23.)
+- **Tue–Wed, Nov 24–25 — WRAP:** 30% off orders of $50+, 25% off with no minimum, plus an extra 10% off clearance.
+- **Thu–Fri, Nov 26–27 — BF60:** 35% off, up to 60% off with tiered offers. The week's best code — buy jerseys and hoodies here.
+- **Sat, Nov 28 — CELEBRATE:** 30% off, up to 50% off with tiered offers.
+- **Sun, Nov 29 — CYBER60:** 35% off, up to 60% off with tiered offers.
+- **Daily deals rotate too:** hats $17.99 on Wednesday, tees 50% off Thursday, fleece 60% off Friday, pajamas 50% off Saturday, hoodies 50% off Monday, November 30.
 - **Early December:** order any personalized/custom gear (3–4 week turnaround).
 - **Mid-December:** last call for standard shipping on everything else.
 
