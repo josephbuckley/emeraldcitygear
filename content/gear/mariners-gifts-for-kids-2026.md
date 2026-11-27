@@ -1,7 +1,7 @@
 ---
 title: "10 Seattle Mariners Gifts for Kids (2026)"
 date: 2026-10-13
-lastmod: 2026-11-24
+lastmod: 2026-11-26
 description: "The 2026 Seattle Mariners kids' gift guide — 10 gifts young fans will actually love, from youth jerseys to Mariner Moose plush, with honest prices."
 categories: ["Gear & Gifts"]
 tags: ["gifts", "kids", "holiday", "fanatics", "2026"]
@@ -9,18 +9,46 @@ giftguide: true
 gift_items:
   - name: "Youth Julio Rodríguez Jersey"
     image: "/images/gear/julio-youth-jersey.jpg"
+    price: 110
+    url: "https://fanatics.93n6tx.net/n4XGZA?subId1=mariners-gifts-for-kids-2026"
   - name: "Youth Cal Raleigh Jersey"
+    price: 110
+    url: "https://fanatics.93n6tx.net/n4XGZA?subId1=mariners-gifts-for-kids-2026"
   - name: "Kids Mariners Hoodie"
     image: "/images/gear/mariners-hoodie.jpg"
+    price: 65
+    url: "https://fanatics.93n6tx.net/n4XGZA?subId1=mariners-gifts-for-kids-2026"
   - name: "Mariner Moose Plush"
+    price: 25
+    url: "https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-for-kids-2026"
   - name: "Kids Mariners Adjustable Cap"
     image: "/images/gear/mariners-9forty-adjustable.jpg"
+    price: 30
+    url: "https://fanatics.93n6tx.net/n4XGZA?subId1=mariners-gifts-for-kids-2026"
   - name: "Julio Rodríguez Youth Number Tee"
     image: "/images/gear/julio-number-tee.png"
+    price: 35
+    url: "https://fanatics.93n6tx.net/n4XGZA?subId1=mariners-gifts-for-kids-2026"
   - name: "Kids Baseball Glove"
+    price: 50
+    url: "https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-for-kids-2026"
   - name: "Mariners Ornament"
+    price: 18
+    url: "https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-for-kids-2026"
   - name: "Mariners Backpack"
+    price: 35
+    url: "https://fanatics.93n6tx.net/n4XGZA?subId1=mariners-gifts-for-kids-2026"
   - name: "Take Them to a Game"
+    url: "https://seatgeek.com/seattle-mariners-tickets?subId1=mariners-gifts-for-kids-2026"
+faq:
+  - q: "What is the best Mariners gift for a kid?"
+    a: "A youth Julio Rodríguez jersey (about $110). Julio is the player young fans are watching, and a youth jersey is the Christmas-morning reaction gift — the one that gets worn for the rest of the day."
+  - q: "How much is a youth Mariners jersey?"
+    a: "About $110 at list price. During Black Friday week, Fanatics' BF60 code (35% off, Thursday–Friday) brings it to roughly $72 — check the current price before buying."
+  - q: "What Mariners gift works if I don't know the child's size?"
+    a: "The Mariner Moose plush (about $25) needs no size at all. A kids' adjustable cap (about $30) is the other safe pick — one size fits most."
+  - q: "What is a good Mariners gift for a younger kid?"
+    a: "The Mariner Moose plush (about $25) — it's the bedtime-approved pick and doubles as a good-luck charm for the next T-Mobile Park trip. A Mariners ornament ($15–$20) is the budget option kids love hanging themselves."
 cover:
   image: "/images/gear/julio-youth-jersey.jpg"
   alt: "Youth Julio Rodríguez Mariners jersey — the top 2026 gift for young fans"
@@ -29,6 +57,13 @@ cover:
 Kids don't care about your gift budget. They care about whether they look like their favorite player on Christmas morning. Here's the 2026 list — every pick a young Mariners fan will actually wear, use, or refuse to put down.
 
 **The short version:** a youth jersey is the Christmas-morning reaction gift. Everything else fills out the stocking. Buy this week with Fanatics' rotating codes — **WRAP** (30% off orders of $50+, 25% off with no minimum) Tuesday–Wednesday, then **BF60** (35% off) Thursday–Friday, the week's deepest cut.
+
+## Quick picks
+
+- **Best overall:** [Youth Julio Rodríguez Jersey](https://fanatics.93n6tx.net/n4XGZA?subId1=mariners-gifts-for-kids-2026) — ~$110
+- **Best for little kids:** [Mariner Moose Plush](https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-for-kids-2026) — ~$25
+- **Best budget pick:** [Mariners Ornament](https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-for-kids-2026) — ~$15–$20
+- **Best no-size-guessing:** [Kids Mariners Adjustable Cap](https://fanatics.93n6tx.net/n4XGZA?subId1=mariners-gifts-for-kids-2026) — ~$30
 
 ---
 
@@ -107,6 +142,26 @@ The experiential gift. A family four-pack for an early-season 2027 game — or O
 - **Tue–Wed, Nov 24–25 — WRAP:** 30% off orders of $50+, 25% off with no minimum. A ~$110 youth jersey comes to about $77 (check current price). Wednesday's daily deal is kids' hats at $14.99.
 - **Thu–Fri, Nov 26–27 — BF60:** 35% off, up to 60% off with tiered offers — the week's best code. That same youth jersey drops to about $72. **CELEBRATE** (30% off) follows Saturday and **CYBER60** (35% off) Sunday if the weekend gets away from you.
 - **Mid-December:** last call for standard shipping on everything else.
+
+---
+
+## Frequently Asked Questions
+
+### What is the best Mariners gift for a kid?
+
+A youth Julio Rodríguez jersey (about $110). Julio is the player young fans are watching, and a youth jersey is the Christmas-morning reaction gift — the one that gets worn for the rest of the day.
+
+### How much is a youth Mariners jersey?
+
+About $110 at list price. During Black Friday week, Fanatics' BF60 code (35% off, Thursday–Friday) brings it to roughly $72 — check the current price before buying.
+
+### What Mariners gift works if I don't know the child's size?
+
+The Mariner Moose plush (about $25) needs no size at all. A kids' adjustable cap (about $30) is the other safe pick — one size fits most.
+
+### What is a good Mariners gift for a younger kid?
+
+The Mariner Moose plush (about $25) — it's the bedtime-approved pick and doubles as a good-luck charm for the next T-Mobile Park trip. A Mariners ornament ($15–$20) is the budget option kids love hanging themselves.
 
 *Promo checked November 24, 2026. Prices are estimates — check the current price on Fanatics before buying.*
 

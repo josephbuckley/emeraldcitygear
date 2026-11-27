@@ -1,12 +1,56 @@
 ---
 title: "The Best Seattle Mariners Gifts for Christmas 2026 (For Every Kind of Fan)"
 date: 2026-03-18
-lastmod: 2026-11-24
+lastmod: 2026-11-26
 description: "The best Seattle Mariners Christmas gifts in 2026 — jerseys, hats, stocking stuffers, and Black Friday deals for every Mariners fan on your list."
 categories: ["Gear & Gifts"]
 tags: ["gifts", "christmas", "jerseys", "gear", "fanatics", "2026"]
 weight: 1
 giftguide: true
+gift_items:
+  - name: "Julio Rodríguez Nike Home Replica Jersey"
+    image: "/images/gear/julio-home-jersey.jpg"
+    price: 150
+    url: "https://fanatics.93n6tx.net/JkKGYq?subId1=best-mariners-gifts-2026"
+  - name: "Cal Raleigh Nike Home Replica Jersey"
+    image: "/images/gear/cal-home-jersey.jpg"
+    price: 175
+    url: "https://fanatics.93n6tx.net/2RaEB7?subId1=best-mariners-gifts-2026"
+  - name: "Ken Griffey Jr. Cooperstown Replica Jersey"
+    image: "/images/gear/griffey-home-jersey.jpg"
+    price: 140
+    url: "https://fanatics.93n6tx.net/en19xO?subId1=best-mariners-gifts-2026"
+  - name: "New Era 59FIFTY Fitted Hat"
+    image: "/images/gear/mariners-59fifty-fitted.jpg"
+    price: 45
+    url: "https://fanatics.93n6tx.net/MKAJYq?subId1=best-mariners-gifts-2026"
+  - name: "Mariners Ornament"
+    price: 20
+    url: "https://fanatics.93n6tx.net/MKAJYq?subId1=best-mariners-gifts-2026"
+  - name: "Mariners Tumbler"
+    price: 35
+    url: "https://fanatics.93n6tx.net/MKAJYq?subId1=best-mariners-gifts-2026"
+  - name: "Youth Julio Rodríguez Jersey"
+    image: "/images/gear/julio-youth-jersey.jpg"
+    price: 110
+    url: "https://fanatics.93n6tx.net/n4XGZA?subId1=best-mariners-gifts-2026"
+  - name: "Women's Cal Raleigh Jersey"
+    image: "/images/gear/cal-womens-jersey.jpg"
+    price: 150
+    url: "https://fanatics.93n6tx.net/zzxE5r?subId1=best-mariners-gifts-2026"
+  - name: "T-Mobile Park Game Tickets"
+    url: "https://seatgeek.com/seattle-mariners-tickets?subId1=best-mariners-gifts-2026"
+faq:
+  - q: "What is the best gift for a Seattle Mariners fan?"
+    a: "A replica jersey of a current star. Julio Rodríguez and Cal Raleigh are the two names that dominate — Julio is the face of the franchise, and Cal's gear flies off the shelves after every walk-off."
+  - q: "How much does a Mariners jersey cost?"
+    a: "Replica jerseys run $120–$150. Authentic jerseys are $200–$350. For most gift recipients, replica is the right call — and Black Friday is when the replicas get discounted."
+  - q: "What is a good Mariners gift under $25?"
+    a: "Stocking stuffers: a Mariners ornament, novelty socks, or a bottle opener or keychain. Small, cheap, and fans genuinely use them."
+  - q: "What do you buy a Mariners fan who already has everything?"
+    a: "Experiences and one-offs: T-Mobile Park game tickets, a personalized jersey with their name and number (order by early December — turnaround is 3–4 weeks), or a framed Mariners photo or stadium print."
+  - q: "Where is the best place to buy Mariners gifts?"
+    a: "Fanatics — widest selection, reliable shipping, and regular promos (25% off is common, 35% off during Black Friday week). MLB Shop runs on the same inventory."
 cover:
   image: "/images/gear/julio-home-jersey.jpg"
   alt: "Seattle Mariners Julio Rodríguez home jersey — a top Christmas gift pick for 2026"
@@ -18,6 +62,14 @@ Shopping for a Mariners fan at Christmas is either super easy or quietly stressf
 Easy if you know their jersey number preference and size. Stressful if you're buying for someone whose whole identity is the M's and you don't want to show up with a Griffey jersey when they're a die-hard Cal Raleigh fan.
 
 This guide is here to help. Updated for the 2026 holiday season with Christmas-specific picks, Black Friday deal timing, and shipping deadlines so your gift actually arrives before the 25th.
+
+## Quick picks
+
+- **Best overall:** [Julio Rodríguez Mariners Jersey](https://fanatics.93n6tx.net/JkKGYq?subId1=best-mariners-gifts-2026) — replica, $120–$150
+- **For the die-hard:** [Cal Raleigh Mariners Jersey](https://fanatics.93n6tx.net/2RaEB7?subId1=best-mariners-gifts-2026) — the Big Dumper pick
+- **Best under $25:** [Mariners ornament or socks](https://fanatics.93n6tx.net/MKAJYq?subId1=best-mariners-gifts-2026) — stocking-stuffer tier
+- **Best for kids:** [Youth Julio Rodríguez Jersey](https://fanatics.93n6tx.net/n4XGZA?subId1=best-mariners-gifts-2026) — ~$110
+- **Best experience:** [T-Mobile Park game tickets](https://seatgeek.com/seattle-mariners-tickets?subId1=best-mariners-gifts-2026) — a memory, not a thing
 
 ---
 
@@ -191,6 +243,30 @@ Bonus: Target is running a Fanatics $100 eGift Card + $20 Target Gift Card deal 
 **Fanatics** is the main recommendation — widest selection, reliable shipping, regular 25% off promos. **MLB Shop** runs on the same inventory. The **T-Mobile Park team store** has some exclusive items worth browsing if you're at a game.
 
 When in doubt: Julio Rodríguez, navy, whatever format fits your budget. And buy it in November.
+
+---
+
+## Frequently Asked Questions
+
+### What is the best gift for a Seattle Mariners fan?
+
+A replica jersey of a current star. Julio Rodríguez and Cal Raleigh are the two names that dominate — Julio is the face of the franchise, and Cal's gear flies off the shelves after every walk-off.
+
+### How much does a Mariners jersey cost?
+
+Replica jerseys run $120–$150. Authentic jerseys are $200–$350. For most gift recipients, replica is the right call — and Black Friday is when the replicas get discounted.
+
+### What is a good Mariners gift under $25?
+
+Stocking stuffers: a Mariners ornament, novelty socks, or a bottle opener or keychain. Small, cheap, and fans genuinely use them.
+
+### What do you buy a Mariners fan who already has everything?
+
+Experiences and one-offs: T-Mobile Park game tickets, a personalized jersey with their name and number (order by early December — turnaround is 3–4 weeks), or a framed Mariners photo or stadium print.
+
+### Where is the best place to buy Mariners gifts?
+
+Fanatics — widest selection, reliable shipping, and regular promos (25% off is common, 35% off during Black Friday week). MLB Shop runs on the same inventory.
 
 Go M's. ⚾
 

@@ -25,7 +25,7 @@
 <meta property="og:type" content="article">
 {{ end }}
 
-{{/* Gift-guide structured data: ItemList for pages with giftguide: true */}}
+{{/* Gift-guide structured data: ItemList of Products (with Offer prices) for pages with giftguide: true */}}
 {{ if .Params.giftguide }}
 <script type="application/ld+json">
 {
@@ -40,10 +40,42 @@
     {
       "@type": "ListItem",
       "position": {{ add $i 1 }},
-      "name": {{ $item.name | jsonify | safeJS }}{{ with $item.image }},
-      "image": {{ . | absURL | jsonify | safeJS }}{{ end }}
+      "item": {
+        "@type": "Product",
+        "name": {{ $item.name | jsonify | safeJS }}{{ with $item.image }},
+        "image": {{ . | absURL | jsonify | safeJS }}{{ end }}{{ with $item.url }},
+        "url": {{ . | jsonify | safeJS }}{{ end }}{{ with $item.price }},
+        "offers": {
+          "@type": "Offer",
+          "price": {{ . }},
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock"{{ with $item.url }},
+          "url": {{ . | jsonify | safeJS }}{{ end }}
+        }{{ end }}
+      }
     }{{ end }}
   ]{{ end }}
+}
+</script>
+{{ end }}
+
+{{/* FAQ structured data for pages with faq front matter */}}
+{{ with .Params.faq }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $qa := . }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ $qa.q | jsonify | safeJS }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $qa.a | jsonify | safeJS }}
+      }
+    }{{ end }}
+  ]
 }
 </script>
 {{ end }}

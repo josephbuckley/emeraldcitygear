@@ -1,24 +1,53 @@
 ---
 title: "10 Seattle Mariners Gifts Under $25 (2026)"
 date: 2026-10-13
-lastmod: 2026-11-24
+lastmod: 2026-11-26
 description: "The 2026 Seattle Mariners budget gift guide — 10 gifts under $25 that fans will actually use, from novelty socks to mini helmets, with honest prices."
 categories: ["Gear & Gifts"]
 tags: ["gifts", "budget", "under-25", "holiday", "fanatics", "2026"]
 giftguide: true
 gift_items:
   - name: "Mariners Novelty Socks"
+    price: 15
+    url: "https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-under-25-2026"
   - name: "Mariners Ornament"
+    price: 20
+    url: "https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-under-25-2026"
   - name: "Mini Batting Helmet"
+    price: 12
+    url: "https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-under-25-2026"
   - name: "Mariners Pennant"
+    price: 18
+    url: "https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-under-25-2026"
   - name: "Foam Finger"
+    price: 18
+    url: "https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-under-25-2026"
   - name: "Rally Towel"
+    price: 15
+    url: "https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-under-25-2026"
   - name: "Enamel Pin Set"
+    price: 13
+    url: "https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-under-25-2026"
   - name: "Mariners Keychain"
+    price: 12
+    url: "https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-under-25-2026"
   - name: "Mariners Clearance Tees (on sale under $25)"
     image: "/images/gear/julio-fuse-tee.jpg"
+    price: 25
+    url: "https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-under-25-2026"
   - name: "Mariners Adjustable Hats (clearance finds under $25)"
     image: "/images/gear/mariners-9forty-adjustable.jpg"
+    price: 25
+    url: "https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-under-25-2026"
+faq:
+  - q: "What are the best Mariners gifts under $25?"
+    a: "Novelty socks (about $15), a Mariners ornament ($15–$25), and a mini batting helmet (about $12) are the can't-miss trio. Fans actually use all three, and each works as a stocking stuffer."
+  - q: "Can you get a Mariners jersey for under $25?"
+    a: "No — replica jerseys run $120–$150. The under-$25 hack is clearance: Fanatics regularly drops Mariners tees and adjustable hats under $25 during sales, especially Black Friday week."
+  - q: "What is the best Mariners stocking stuffer?"
+    a: "A Mariners ornament is the most Christmas-specific pick — cheap, personal, and it comes out of the box every December for years. Novelty socks are the runner-up."
+  - q: "When do Mariners gifts under $25 go on sale?"
+    a: "Black Friday week. Fanatics' WRAP code takes 25% off with no minimum Tuesday–Wednesday, and BF60 takes 35% off Thursday–Friday — a $15 pick drops to about $10."
 cover:
   image: "/images/gear/mariners-9forty-adjustable.jpg"
   alt: "Mariners adjustable hat — a great under-$25 gift when caught on sale"
@@ -27,6 +56,13 @@ cover:
 Not every Mariners gift needs to be a jersey. The under-$25 tier is where the stocking stuffers and the "I saw this and thought of you" gifts live — and honestly, fans use this stuff every day. Here's the 2026 list, all honestly under twenty-five bucks.
 
 **The short version:** socks, ornaments, and mini helmets are the can't-miss trio. Watch Fanatics clearance for tees and hats that dip under $25 during sales — and this week Fanatics' codes rotate daily: **WRAP** takes 25% off with no minimum Tuesday–Wednesday, and **BF60** takes 35% off Thursday–Friday.
+
+## Quick picks
+
+- **Best overall:** [Mariners Novelty Socks](https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-under-25-2026) — ~$15
+- **Most Christmas-specific:** [Mariners Ornament](https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-under-25-2026) — ~$15–$25
+- **Best desk gift:** [Mini Batting Helmet](https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-under-25-2026) — ~$12
+- **Best sale hack:** [Clearance Tees](https://fanatics.93n6tx.net/MKAJYq?subId1=mariners-gifts-under-25-2026) — under $25 on sale
 
 ---
 
@@ -101,6 +137,26 @@ Same deal: the 9FORTY adjustable is ~$35 at full price, but clearance and sale e
 - **Tue–Wed, Nov 24–25 — WRAP:** 25% off with no minimum (30% off orders of $50+). The no-minimum tier is the one that matters here: it takes a ~$15 ornament or socks set to about $11. Wednesday's daily deal puts adult hats at $17.99.
 - **Thu–Fri, Nov 26–27 — BF60:** 35% off, up to 60% off with tiered offers — that same $15 pick drops to about $10, and Thursday's daily deal is tees at 50% off, which is when the clearance tees and hats in items 9 and 10 actually hit under-$25 prices. **CELEBRATE** (30% off) runs Saturday and **CYBER60** (35% off) Sunday.
 - **Mid-December:** last call for standard shipping on everything else.
+
+---
+
+## Frequently Asked Questions
+
+### What are the best Mariners gifts under $25?
+
+Novelty socks (about $15), a Mariners ornament ($15–$25), and a mini batting helmet (about $12) are the can't-miss trio. Fans actually use all three, and each works as a stocking stuffer.
+
+### Can you get a Mariners jersey for under $25?
+
+No — replica jerseys run $120–$150. The under-$25 hack is clearance: Fanatics regularly drops Mariners tees and adjustable hats under $25 during sales, especially Black Friday week.
+
+### What is the best Mariners stocking stuffer?
+
+A Mariners ornament is the most Christmas-specific pick — cheap, personal, and it comes out of the box every December for years. Novelty socks are the runner-up.
+
+### When do Mariners gifts under $25 go on sale?
+
+Black Friday week. Fanatics' WRAP code takes 25% off with no minimum Tuesday–Wednesday, and BF60 takes 35% off Thursday–Friday — a $15 pick drops to about $10.
 
 *Promo checked November 24, 2026. Prices are estimates — check the current price on Fanatics before buying.*
 
